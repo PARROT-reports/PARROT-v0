@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PARROT-reports/PARROT-v0">
-    <img src="images/parrot.png" alt="Logo" width="80" height="80">
+    <img src="images/parrot.png" alt="Logo">
   </a>
 
 <h3 align="center">PARROT</h3>
