@@ -18,13 +18,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#manifesto">Our Manifesto</a>
-    </li>
-
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#our-manifesto">Our Manifesto</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -39,13 +34,28 @@
 
 PARROT is an collaborative initiative to create a multilingual open dataset of radiological reports on which to test LLMs. The aim of PARROT is to represent the diversity of languages and reporting styles to promote applicability of LLM-related research in non-English clinical settings. PARROT is not-for-profit and does not recieve any funding at the moment.
 
-
 <!-- MANIFESTO -->
-## Our manifesto
+## Our Manifesto
 <details>
 <summary>Read the manifesto</summary>
 blabla
 </details>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+1) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies
+2) Translate them in English (you can use automated translation as long as you verify the translations yourself)
+3) Save the reports in two different files in .txt, .docx or .rtf format with the name formatted YOURNAME_LANGUAGE (for example, LEGUELLEC_FRENCH for the original reports and LEGUELLEC_ENGLISH for the translation)
+4) Send them to reportsparrot@gmail.com with the email title being YOURNAME_LANGUAGE
+5) If the reports qualify for publication, you will recieve an email inviting you to sign the agreement for sharing
+
+You can send us any number of reports, in any number of batches.
+
+<!-- WHAT WILL BECOME OF MY REPORTS -->
+## What will my reports become?
+
+If you accept the data sharing agreement you will recieve by email, the reports will be shared publicly as part of PARROT database according to the user licence. PARROT will not sell your reports, they will remain free forever for everyone.
 
 <!-- CONTRIBUTORS -->
 ## Contributors
@@ -71,21 +81,6 @@ Keno Bressem (Munich, Germany) 50 reports
 | 9    | Renée Lemaire | France        | 33                      |
 | 10   | Sven Erikson  | Sweden        | 31                      |
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-1) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies
-2) Translate them in English (you can use automated translation as long as you verify the translations yourself)
-3) Save the reports in two different files in .txt, .docx or .rtf format with the name formatted YOURNAME_LANGUAGE (for example, LEGUELLEC_FRENCH for the original reports and LEGUELLEC_ENGLISH for the translation)
-4) Send them to reportsparrot@gmail.com with the email title being YOURNAME_LANGUAGE
-5) If the reports qualify for publication, you will recieve an email inviting you to sign the agreement for sharing
-
-You can send us any number of reports, in any number of batches.
-
-<!-- WHAT WILL BECOME OF MY REPORTS -->
-## What will my reports become?
-
-If you accept the data sharing agreement you will recieve by email, the reports will be shared publicly as part of PARROT database according to the user licence. PARROT will not sell your reports, they will remain free forever for everyone.
 
 <!-- LICENSE -->
 ## License
