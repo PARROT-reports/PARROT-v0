@@ -56,7 +56,7 @@ Bastien Le Guellec (Lille, France) 26 reports
 GERMAN:
 Keno Bressem (Munich, Germany) 50 reports
 
-# Leaderboard
+## Leaderboard
 
 | Rank | Name          | Country       | Number of Valid Reports |
 |------|---------------|---------------|-------------------------|
