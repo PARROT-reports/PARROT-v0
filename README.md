@@ -32,7 +32,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-PARROT is an collaborative initiative to create a multilingual open dataset of radiological reports on which to test LLMs. The aim of PARROT is to represent the diversity of languages and reporting styles to promote applicability of LLM-related research in non-English clinical settings. PARROT is not-for-profit and does not recieve any funding at the moment.
+PARROT is an collaborative initiative to create a multilingual open dataset of radiological reports on which to test LLMs. 
+The aim of PARROT is to represent the diversity of languages and reporting styles to promote applicability of LLM-related research in non-English clinical settings. 
+PARROT is not-for-profit and does not recieve any funding at the moment.
 
 <!-- MANIFESTO -->
 ## Our Manifesto
@@ -55,7 +57,12 @@ You can send us any number of reports, in any number of batches.
 <!-- WHAT WILL BECOME OF MY REPORTS -->
 ## What will my reports become?
 
-If you accept the data sharing agreement you will recieve by email, the reports will be shared publicly as part of PARROT database according to the user licence. PARROT will not sell your reports, they will remain free forever for everyone.
+If you accept the data sharing agreement you will recieve by email, the reports will be shared publicly as part of PARROT database. Your reports will remain free for everyone to use.
+
+<!-- WHAT DO I GET IN RETURN -->
+## What do I get in return?
+
+As soon as you submit 20 valid reports, you will be invited to join the PARROT Consortium of Authors and will be named as a co-author of the dataset.
 
 <!-- CONTRIBUTORS -->
 ## Contributors
