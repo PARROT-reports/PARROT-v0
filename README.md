@@ -40,16 +40,17 @@ PARROT is not-for-profit and does not recieve any funding at the moment.
 ## Our Manifesto
 <details>
 <summary>Read the manifesto</summary>
-blabla
-</details>
+Our mission is to foster inclusivity and diversity in the development of AI-powered tools for healthcare by providing a multilingual dataset of radiology reports. We believe that the the availability of predominant English texts for evaluating models is not enogh for a comprehensive assessment of LLMs in global healthcare. 
+By collaborating with healthcare professionals and researchers from around the world, we aim to create a resource that will enable the development of LLMs capable of understanding and generating radiology reports in various languages. This will ultimately lead to improved patient care and more accurate diagnoses, regardless of the language spoken by the patient or the healthcare provider.
+We are committed to maintaining the highest standards of data privacy and security, ensuring that the dataset is free of sensitive data and used solely for the purpose of advancing research in this field.</details>
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 1) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies
 2) Translate them in English (you can use automated translation as long as you verify the translations yourself)
-3) Save the reports in two different files in .txt, .docx or .rtf format with the name formatted YOURNAME_LANGUAGE (for example, LEGUELLEC_FRENCH for the original reports and LEGUELLEC_ENGLISH for the translation)
-4) Send them to reportsparrot@gmail.com with the email title being YOURNAME_LANGUAGE
+3) Save the reports in two different files in .txt, .docx or .rtf format with the name formatted YOURNAME_LANGUAGE_REPORT_NO (for example, LEGUELLEC_FRENCH_1 for the original reports and LEGUELLEC_ENGLISH_1 for the translation)
+4) Send them to reportsparrot@gmail.com with the email title being YOURNAME_LANGUAGE or submit them directly via a pull request. 
 5) If the reports qualify for publication, you will recieve an email inviting you to sign the agreement for sharing
 
 You can send us any number of reports, in any number of batches.
