@@ -47,12 +47,16 @@ blabla
 ## Contributing
 
 1) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies
-2) Translate them in English (you can use automated translation as long as you verify the translations yourself)
-3) Save the reports in two different files in .txt, .docx or .rtf format with the name formatted YOURNAME_LANGUAGE (for example, LEGUELLEC_FRENCH for the original reports and LEGUELLEC_ENGLISH for the translation)
+2) Translate the reports in English, list the measures, structure them according to the templates available in the template folder, and annotate them for ICD-10
+3) Save the file as a .csv following the format shown below
 4) Send them to reportsparrot@gmail.com with the email title being YOURNAME_LANGUAGE
 5) If the reports qualify for publication, you will recieve an email inviting you to sign the agreement for sharing
 
 You can send us any number of reports, in any number of batches.
+
+| Report                            | English Translation     | Structured | Measurements                              | ICD-10   |
+|-----------|-----------------------|-------------------------|---------------------------------------|----------|
+| The report in your native langage | Its English translation | The report in your native langage structured following the appropriate template from the template folder | List of the measurements mentioned in the report, including previous measurements         | List of the ICD-10 codes appropriate for the report, including from the clinical section |
 
 <!-- WHAT WILL BECOME OF MY REPORTS -->
 ## What will my reports become?
