@@ -327,6 +327,51 @@
   "English": "ABDOMINO-PELVIC ULTRASOUND\n\nINDICATION:\nEpigastric pain, vomiting, and abnormal liver function tests indicating cytolysis. History of cholecystectomy.\n\nRESULTS:\nLiver is at the upper limit of normal size, with regular contours. Hepatic span measured at 16 cm.\nLiver parenchyma with normal echogenicity, no suspicious focal lesions.\nPatency of the portal vein and hepatic veins.\nPost-cholecystectomy status.\nIncreased visibility of the common bile duct, measured up to 10 mm, followed to the papilla without detected obstruction.\nNo dilatation of intrahepatic bile ducts.\n\nHead and body of the pancreas intact.\nSpleen is normal in size and homogeneous.\n\nKidneys are normal in size, with a bipolar diameter of 10 cm on both sides.\nNo dilatation of the pyelocaliceal cavities.\nBladder is filled, with thin walls.\n\nNo intraperitoneal effusion detected.\n\nCONCLUSION:\nNo dilatation of intrahepatic bile ducts.",
   "Measurements": "Flèche hépatique : 16 cm, Voie biliaire principale : 10 mm, Reins : 10 cm",
   "ICD": "R10.13, Z90.49"
+ },
+ {
+  "Modality": "US",
+  "Zone": "Neck",
+  "Language": "Fr",
+  "Report": "ECHOGRAPHIE CERVICALE\n\n \nINDICATION :\nBilan d'une tuméfaction sous-mandibulaire droite.\n \nRESULTAT :\nLa tuméfaction palpée correspond à une formation nodulaire sous-mandibulaire droite à contours irréguliers,\nfranchement hypo-échogène, mesurant 27x18 mm, suspecte.\n \nElle apparaît hyperhémiée en mode Doppler.\nPas de microcalcifications.\n \nIl semble exister un liseré graisseux entre cette formation et la glande sous-mandibulaire\ndroite, en faveur d'une origine non salivaire : adénomégalie ?\n \nCompression du canal de Wharton droit et dilatation des canaux salivaires intraglandulaires\nsous-mandibulaires.\n \nPar ailleurs, pas d'autre adénomégalie jugulo-carotidienne ou sous-mandibulaire.\n \nCONCLUSION :\nFormation nodulaire d'allure suspecte sous-mandibulaire droite correspondant\nvraisemblablement à une adénomégalie.\n \nIntérêt d'un avis ORL pour éventuel prélèvement.\n \nMédecin demandeur prévenu.",
+  "English": "CERVICAL ULTRASOUND\n\nINDICATION:\nEvaluation of a right submandibular mass.\n\nRESULTS:\nThe palpated mass corresponds to a right submandibular nodular formation with irregular contours, markedly hypoechoic, measuring 27x18 mm, and appears suspicious.\n\nIt shows increased blood flow on Doppler mode.\nNo microcalcifications are observed.\n\nA fatty plane seems to exist between this formation and the right submandibular gland, suggesting a non-salivary origin: possibly lymphadenopathy?\n\nCompression of the right Wharton's duct and dilation of the intraglandular submandibular salivary ducts are noted.\n\nNo other jugulo-carotid or submandibular lymphadenopathy observed.\n\nCONCLUSION:\nSuspicious-appearing nodular formation in the right submandibular region likely corresponding to lymphadenopathy.\n\nRecommendation for an ENT specialist consultation for a possible biopsy.\n\nThe referring physician has been notified.",
+  "Measurements": "Formation nodulaire : 27 x 18 mm",
+  "ICD": "R22.1"
+ },
+ {
+  "Modality": "US",
+  "Zone": "Neck",
+  "Language": "Fr",
+  "Report": "ECHOGRAPHIE DE LA THYROÏDE\n\n \nINDICATION :\nBilan d'une hypothyroïdie survenue au cours d'un traitement par immunothérapie pour CHC.\n \nRESULTAT :\nIsthme mesuré à 2 mm.\nLobe droit mesuré à 46x21x19 mm, soit un volume de 9,6 cc.\nLobe gauche mesuré à 36x17x14 mm, soit un volume de 4,6 cc.\n \nParenchyme thyroïdien hétérogène, globalement hypo-échogène, avec perte du gradient\nmusculo-parenchymateux.\n \nPas d'hyperhémie en mode Doppler.\n \nPas de nodule.\n\n \nPas d'adénomégalie jugulo-carotidienne ou sous-mandibulaire.\n \nCONCLUSION :\nPas de goitre.\nPas de nodule thyroïdien suspect.\nAspect compatible avec des séquelles de thyroïdite.",
+  "English": "THYROID ULTRASOUND\n\nINDICATION:\nEvaluation of hypothyroidism during immunotherapy treatment for hepatocellular carcinoma (HCC).\n\nRESULTS:\nIsthmus measured at 2 mm.\nRight lobe measured at 46x21x19 mm, with a volume of 9.6 cc.\nLeft lobe measured at 36x17x14 mm, with a volume of 4.6 cc.\n\nThyroid parenchyma is heterogeneous, overall hypoechoic, with loss of the muscle-parenchymal gradient.\n\nNo hyperemia observed on Doppler mode.\n\nNo nodules detected.\n\nNo jugulo-carotid or submandibular lymphadenopathy observed.\n\nCONCLUSION:\nNo goiter.\nNo suspicious thyroid nodules.\nFindings are compatible with sequelae of thyroiditis.",
+  "Measurements": "Ishme thyroïde : 2 mm, Lobe droit thyroïde : 46 x 21 x 19 mm, Volume lobe droit : 9.6 cc, Lobe gauche thyroïde : 36 x 17 x 14 mm, volume lobe gauche : 4.6 cc",
+  "ICD": "E06.9"
+ },
+ {
+  "Modality": "US",
+  "Zone": "Abdomen Pelvis",
+  "Language": "Fr",
+  "Report": "ECHOGRAPHIE ABDOMINO-PELVIENNE\n\n \nINDICATION :\nDouleurs en fosse iliaque gauche irradiantes vers la région pelvienne, résolues.\n \nRESULTAT :\nFoie homogène de taille normale et de contours réguliers, sans lésion focale décelée.\nStatut post cholécystectomie. Pas de dilatation des voies biliaires intra et extrahépatiques.\nRétropéritoine non dégagé de part l'interposition des gaz digestifs.\nLes reins sont de morphologie normale. Les cavités excrétrices ne sont pas dilatées.\nRate homogène, de taille normale.\nPas de liquide libre intra-abdominal.\n \nVessie en réplétion partielle durant l'examen, de contenu anéchogène.\nUtérus de taille normale.\nOvaires de taille de morphologie normale. Formation kystique annexielle gauche de 35 mm.\nCul-de-sac de Douglas libre.\n \nCONCLUSION :\nPas de dilatation des cavités excrétrices.\nFormation kystique annexielle gauche de 35 mm. Intérêt d'un avis gynécologique et\nd'un contrôle échographique dans 3 mois.",
+  "English": "ABDOMINO-PELVIC ULTRASOUND\n\nINDICATION:\nPain in the left iliac fossa radiating to the pelvic region, resolved.\n\nRESULTS:\nLiver is homogeneous, of normal size and regular contours, with no focal lesions detected.\nPost-cholecystectomy status. No dilatation of intrahepatic and extrahepatic bile ducts.\nRetroperitoneum not visualized due to interposition of digestive gases.\nKidneys have a normal morphology. Excretory cavities are not dilated.\nSpleen is homogeneous and of normal size.\nNo free intra-abdominal fluid.\n\nBladder is partially filled during the examination, with anechoic content.\nUterus is of normal size.\nOvaries are of normal size and morphology. A left adnexal cystic formation measuring 35 mm is noted.\nCul-de-sac of Douglas is free.\n\nCONCLUSION:\nNo dilatation of the excretory cavities.\nLeft adnexal cystic formation of 35 mm. A gynecological consultation and follow-up ultrasound in 3 months are recommended.",
+  "Measurements": "Formation kystique annexielle gauche : 35 mm",
+  "ICD": "M54.59, Z90.49, N83.201"
+ },
+ {
+  "Modality": "MR",
+  "Zone": "Foot",
+  "Language": "Fr",
+  "Report": "IRM DU PIED GAUCHE\n\n \nINDICATION :\nSuspicion d'ostéite du pied sur plaie du 4ème espace intercapito-métatarsien.\n \nPROTOCOLE :\nSéquences axiales et sagittales T1, DP Dixon et T1 Dixon après injection de gadolinium.\n \nRESULTAT :\nHypersignal T1, discret hypersignal T2 avec prise de contraste ostéomédullaire de la\nphalange proximale du 4ème rayon.\nDiscrète anomalie de signal également de la tête du 4ème métatarsien en regard.\nCes anomalies de signal sont situés en regard de l'appui et décrite.\n \nPas d'épanchement intra-articulaire significatif.\nPas d'autre anomalie de signal ostéo-médullaire.\n \nCONCLUSION :\nAspect IRM compatible avec une ostéite de la phalange proximale du 4ème rayon.",
+  "English": "MRI OF THE LEFT FOOT\n\nINDICATION:\nSuspicion of osteitis of the foot related to a wound in the 4th intercapitometatarsal space.\n\nPROTOCOL:\nAxial and sagittal sequences T1, DP Dixon, and T1 Dixon after gadolinium injection.\n\nRESULTS:\nHyperintense signal on T1, slight hyperintense signal on T2 with osteomedullary contrast enhancement of the proximal phalanx of the 4th ray.\nSlight signal anomaly also noted at the head of the 4th metatarsal in the corresponding area.\nThese signal anomalies are located at the site of pressure and described as such.\n\nNo significant intra-articular effusion.\nNo other osteomedullary signal anomalies.\n\nCONCLUSION:\nMRI findings compatible with osteitis of the proximal phalanx of the 4th ray.",
+  "Measurements": "N\/A",
+  "ICD": "M86.8X7"
+ },
+ {
+  "Modality": "MR",
+  "Zone": "Spine",
+  "Language": "Fr",
+  "Report": "IRM DU RACHIS CERVICAL\n\n \nINDICATION :\nBilan de névralgie cervico-brachiale droite.\n \nPROTOCOLE :\nSéquences sagittale T1, T2 STIR et 3D T2.\n \nRESULTAT :\nRespect de hauteur et de lalignement des corps vertébraux.\nPas danomalie décelée de la charnière cervico-occipitale.\nCanal cervical légèrement étroit de façon constitutionnelle.\nPas de lésion de remplacement médullaire suspecte.\n \nAbsence de rétrécissement canalaire secondaire significatif.\nRemaniements unco-discarthrosiques débutants en C3-C4, C4-C5, C5-C6 responsables de\nrétrécissements foraminaux gauches modérés.\nAbsence de rétrécissement foraminal droit significatif.\n \nCONCLUSION :\nAbsence de rétrécissement foraminal ou canalaire significatif notamment à droite.\nPas de conflit disco-radiculaire.",
+  "English": "CERVICAL SPINE MRI\n\nINDICATION:\nEvaluation of right cervicobrachial neuralgia.\n\nPROTOCOL:\nSagittal sequences T1, T2 STIR, and 3D T2.\n\nRESULTS:\nPreservation of height and alignment of the vertebral bodies.\nNo abnormalities detected at the cervico-occipital junction.\nSlightly narrow cervical canal constitutionally.\nNo suspicious medullary replacement lesions.\n\nNo significant secondary canal stenosis.\nEarly uncovertebral and disc arthrosis changes at C3-C4, C4-C5, and C5-C6 responsible for moderate left foraminal narrowing.\nNo significant right foraminal narrowing.\n\nCONCLUSION:\nNo significant foraminal or canal stenosis, particularly on the right.\nNo disc-radicular conflict.",
+  "Measurements": "N\/A",
+  "ICD": " M47.812, M53.1"
  }
 ]
 }
