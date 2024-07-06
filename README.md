@@ -96,10 +96,10 @@ As soon as you submit 20 reports with valid translation and ICD codes, or 40 rep
 ## Contributing
 
 1) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies
-2) Translate the reports in English and annotate them for ICD-10 (https://www.icd10data.com/ICD10CM/Codes). See <li><a href="#ICD-10">About ICD-10 codes</a></li> for more info
-4) Save the file in any format (.txt, .docx, .rtf, .csv, .xslx)
-5) Send them to contributeparrot@gmail.com in an email containing information basic about the writer(s): name, institution, position
-6) Once your reports are checked, you will recieve an email inviting you to sign the agreement for sharing
+2) Translate the reports in English and annotate them for ICD-10 (https://www.icd10data.com/ICD10CM/Codes)
+3) Save the file in any text or calc format (.txt, .docx, .rtf, .csv, .ods, .xslx)
+4) Send them to contributeparrot@gmail.com in an email containing information basic about the writer(s): name, institution, position
+5) Once your reports are checked, you will recieve an email inviting you to sign the agreement for sharing
 
 You can send us any number of reports, in any number of batches.
 
@@ -111,7 +111,7 @@ You can send us any number of reports, in any number of batches.
 ## Contributors
 
 FRENCH:
-Bastien Le Guellec (Lille, France)
+Bastien Le Guellec (Lille, France)\
 Alexandre Lefevre (Lille, France)
 
 ## Leaderboard
@@ -122,8 +122,14 @@ Alexandre Lefevre (Lille, France)
 | 2    | Alexandre Lefevre    | France        | 9                      |0|
 | 3    | Jane Doe | UK            | 0                      | 0|
 
-Objective: 100 reports in 5 languages
-French: 40 reports 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️
+Objective: 100 annotated reports in 5 languages
+|Language|Number|Progress|
+|-|-|-|
+|French| 40| 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️|
+|Language 2| | ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Language 3| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Language 4| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Language 5| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
 <!-- ICD-10 CODES -->
 ## ICD-10 Codes
