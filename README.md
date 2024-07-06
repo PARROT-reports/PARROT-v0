@@ -122,6 +122,8 @@ Alexandre Lefevre (Lille, France)
 | 2    | Alexandre Lefevre    | France        | 9                      |0|
 | 3    | Jane Doe | UK            | 0                      | 0|
 
+Objective: 100 reports in 5 languages
+French: 40 reports 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️
 
 <!-- ICD-10 CODES -->
 ## ICD-10 Codes
