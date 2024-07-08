@@ -101,7 +101,7 @@ As soon as you submit 20 reports with valid translation and ICD codes, or 40 rep
 4) Send them to contributeparrot@gmail.com in an email containing information basic about the writer(s): name, institution, position
 5) Once your reports are checked, you will recieve an email inviting you to sign the agreement for sharing
 
-You can send us any number of reports, in any number of batches.
+The maximum of reports that can be submitted by a radiologist is **50**.   
 
 | Language                            | DICOM Modality     | Area | Report                              | English translation   | ICD-10 codes   |
 |-----------|-----------------------|-------------------------|---------------------------------------|----------|----------|
