@@ -155,7 +155,7 @@ contributeparrot@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
+https://docs.google.com/forms/d/e/1FAIpQLSeI2Insowww2o8nMLvVIBoLiqYBFZyjpc8J6w-MfmKpRQIvGA/viewform?usp=sf_link
 PARROT is a not-for-profit project imagined by Bastien Le Guellec (Lille, France) and Keno Bressem (Munich, Germany).
 At the moment, it recieves no institutional funding. 
 If your are an institution wishing to contribute to the project, please send an email to contributeparrot@gmail.com
