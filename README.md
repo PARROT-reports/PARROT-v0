@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PARROT-reports/PARROT-v0">
-    <img src="images/parrot.png" alt="Logo">
+    <img src="images/parrot.svg" alt="Logo">
   </a>
 
 <h3 align="center">PARROT</h3>
@@ -19,10 +19,10 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#our-manifesto">Our Manifesto</a></li>
-    <li><a href="#what-will-my-reports-become">What will my reports become</a></li>
-    <li><a href="#what-do-i-get-in-return">What do I get in return</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#few-rules-for-reports">Few Rules for Reports</a></li>
     <li><a href="#icd-10-codes">ICD-10 Codes</a></li>
+    <li><a href="#faq">FAQ</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -82,26 +82,19 @@ Broadening the scope: multilingual medical databases are rare and radiology repo
 8. 	Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA. . https://huggingface.co/blog/4bit-transformers-bitsandbytes. Accessed May 4, 2024.
 </details>
 
-<!-- WHAT WILL BECOME OF MY REPORTS -->
-## What will my reports become?
-
-If you accept the data sharing agreement you will recieve by email, the reports will be shared publicly as part of PARROT database. Your reports will remain free for everyone to use, under CC BY-NC-SA 4.0 license.
-
-<!-- WHAT DO I GET IN RETURN -->
-## What do I get in return?
-
-As soon as you submit 20 reports with valid translation and ICD codes, or 40 reports with translations without ICD codes, or 40 ICD codes for reports without codes, or any association, you will be invited to join the PARROT Consortium of Authors of the dataset.
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
-1) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies
-2) Translate the reports in English and annotate them for ICD-10 (https://www.icd10data.com/ICD10CM/Codes)
-3) Save the file in any text or calc format (.txt, .docx, .rtf, .csv, .ods, .xslx)
-4) Send them to contributeparrot@gmail.com in an email containing information basic about the writer(s): name, institution, position
-5) Once your reports are checked, you will recieve an email inviting you to sign the agreement for sharing
+1) Read the "Few Rules for Reports" section
+2) Write fictional radiology reports in your own language. Any modalities are welcome (US, CT, MRI, X-rays...), positive or negative, rare or frequent pathologies 
+3) Translate the reports in English and annotate them for ICD-10 (https://www.icd10data.com/ICD10CM/Codes)
+4) Save the file in any table (recommended) or text format (.csv, .ods, .xslx, .txt, .docx, .rtf)
+5) Send them to contributeparrot@gmail.com in an email containing information basic about the writer(s): name, language & country
+6) Once your reports are checked, you will recieve an email inviting you to sign the agreement for sharing
 
 The maximum of reports that can be submitted by a radiologist is **50**.   
+
+Here is a template if you wish to save the file as a table (recommended).
 
 | Language                            | DICOM Modality     | Area | Report                              | English translation   | ICD-10 codes   |
 |-----------|-----------------------|-------------------------|---------------------------------------|----------|----------|
@@ -131,6 +124,15 @@ Objective: 100 annotated reports in 5 languages
 |Language 4| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 |Language 5| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
+<!-- FEW RULES FOR REPORTS -->
+## Few Rules for Reports
+
+The most interesting reports are those that reflect the actual reports produced in each center and each country. To do this, here are a few guidelines to keep in mind:
+1) Include normal and abnormal exams
+2) Include clinical contexts and findings that are most frequent in your daily practice
+3) Include imaging modaities that are most frequent in your daily practice
+4) Write reports as you would write them in your center
+
 <!-- ICD-10 CODES -->
 ## ICD-10 Codes
 
@@ -141,6 +143,21 @@ You can leave the column empty, and a coder will eventually fill it for you, but
 
 ### If you are familiar with ICD-10 codes
 You can add or review codes to reports. To do so, send an email to contributeparrot@gmail.com with the report number and the relevant codes, in a .csv or .xslx file.
+
+<!-- FAQ -->
+## FAQ
+
+### What will my reports become?
+
+If you accept the data sharing agreement you will recieve by email, the reports will be shared publicly as part of PARROT database. Your reports will remain free for everyone to use, under CC BY-NC-SA 4.0 license.
+
+### What do I get in return?
+
+As soon as you submit 20 reports with valid translation and ICD codes, or 40 reports with translations without ICD codes, or 40 ICD codes for reports without codes, or any association, you will be invited to join the PARROT Consortium of Authors of the dataset.
+
+### I have an interesting idea for a clinical task to test on PARROT, how can I contribute?
+
+Great! PARROT is open-source, so you can start to annotate the dataset yourself, and engage other people to do so, either on the Discord server or via social media or by contacting contributeparrot@gmail.com
 
 <!-- LICENSE -->
 ## License
@@ -155,8 +172,6 @@ contributeparrot@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-https://docs.google.com/forms/d/e/1FAIpQLSeI2Insowww2o8nMLvVIBoLiqYBFZyjpc8J6w-MfmKpRQIvGA/viewform?usp=sf_link
 PARROT is a not-for-profit project imagined by Bastien Le Guellec (Lille, France) and Keno Bressem (Munich, Germany).
 At the moment, it recieves no institutional funding. 
 If your are an institution wishing to contribute to the project, please send an email to contributeparrot@gmail.com
-
