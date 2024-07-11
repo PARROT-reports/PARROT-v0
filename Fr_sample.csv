@@ -1,0 +1,2030 @@
+Language,Modality,DICOM Modality,Report,English translation,ICD-10 codes
+Fr,CT,Abdomen Pelvis,"SCANNER ABDOMINOPELVIEN
+
+Indication : Suspicion de sigmoïdite diverticulaire chez un patient de 54 ans présentant des douleurs en fosse iliaque gauche depuis 3j avec fièvre à 38.5°.
+Protocole : Hélices abdominopelviennes sans injection puis après injection de produit de contraste iodé au temps veineux.
+Résultats : Pas d’examen antérieur disponible pour comparaison.
+Epaississement circonférentiel de la charnière rectosigmoïdienne étendu sur environ 6cm, centré sur un diverticule sigmoïdien.
+Présence d’une hypodensité de 4x6mm dans la paroi du colon sigmoïde, correspondant à un petit abcès.
+Pas de pneumopéritoine.
+Pas d’occlusion.
+Pas d’adénomégalie abdominopelvienne.
+Pas d’épanchement abdominopelvien.
+Foie de taille et de morphologie normales, sans lésion focale d’allure suspecte.
+Perméabilité du tronc porte et de ses branches de division proximales.
+Pas de dilatation des voies biliaires intra ou extra hépatiques.
+Vésicule à parois fines.
+Présence d’un macrocalcul vésiculaire, sans signe de complication.
+Pas de splénomégalie. Nodule de rate accessoire en hypochondre gauche.
+Intégrité morphologique du pancréas, des reins et des surrénales.
+Conclusion : Examen compatible avec une sigmoïdite diverticulaire avec abcès pariétal sous-centimétrique, sans perforation.","ABDOMINOPELVIC CT SCAN
+
+CLINICAL HISTORY: Suspicion of diverticular sigmoiditis in a 54-year-old patient experiencing left iliac fossa pain for 3 days with a fever of 38.5°C.
+Protocol: Abdominopelvic helical scans without injection followed by post-contrast iodine injection at venous phase.
+Results: No prior examination available for comparison.
+Circumferential thickening of the rectosigmoid junction extending over approximately 6cm, centered on a sigmoid diverticulum.
+Presence of a 4x6mm hypodensity in the wall of the sigmoid colon, corresponding to a small abscess.
+No pneumoperitoneum.
+No obstruction.
+No abdominopelvic lymphadenopathy.
+No abdominopelvic effusion.
+Liver of normal size and morphology, without suspicious focal lesions.
+Permeability of the portal trunk and its proximal division branches.
+No dilation of intra or extrahepatic bile ducts.
+Gallbladder with thin walls.
+Presence of a large gallbladder gallstone, without signs of complication.
+No splenomegaly. Accessory spleen nodule in the left hypochondrium.
+Morphological integrity of the pancreas, kidneys, and adrenal glands.
+IMPRESSION: Examination compatible with diverticular sigmoiditis with sub-centimeter parietal abscess, without perforation.","r50.9,R10.32,k57.20,k80.20"
+Fr,MR,Brain,"IRM CEREBRALE
+
+
+INDICATION :
+Bilan de céphalées brutales il y a une 3j, persistantes. 
+
+
+PROTOCOLE :
+Séquences axiales Diffusion, Swi, 3D Flair, ASL, 3D T1 SE. Séquence 3D T1 SE après injection de gadolinium reconstruite dans les 3 plans. 
+
+RESULTATS :
+
+Pas de lésion ischémique ou hémorragique récente.
+Pas d'anomalie de signal ou de morphologie du parenchyme en sus ou sous-tentoriel.
+Respect du système ventriculaire.
+Éléments médians en place. Pas d'engagement.
+Pas d’hyperperfusion décelée sur la séquence ASL.
+Perméabilité des artères du polygone de Willis sans sténose ou image d'addition.
+
+
+Absence de rehaussement pathologique parenchymateuse, méningée ou des nerfs crâniens.
+
+
+Formation kystique extra-axiale arrondie bien limitée de la région temporopolaire droite en hyposignal T1, franc hypersignal T2, sans rehaussement après injection, mesuré à 17 x 24 mm dans le plan axial.
+Effet de masse modéré sur le parenchyme adjacent, sans anomalie de signal.
+
+
+CONCLUSION :
+Pas de saignement récent.
+Pas de sténose des artères du polygone de Willis. 
+Kyste arachnoïdien temporo-polaire droit de 17x24mm.","BRAIN MRI
+
+CLINICAL HISTORY:
+Assessment of sudden, persistent headaches occurring 3 days ago.
+
+PROTOCOL:
+Axial sequences Diffusion, SWI, 3D FLAIR, ASL, 3D T1 SE. 3D T1 SE sequence after gadolinium injection reconstructed in all three planes.
+
+RESULTS:
+
+No recent ischemic or hemorrhagic lesions.
+No signal or morphology anomalies in the supra or infratentorial parenchyma.
+Intact ventricular system.
+Median structures in place. No herniation.
+No hyperperfusion detected on the ASL sequence.
+Permeability of the arteries of the Circle of Willis without stenosis or additional imaging findings.
+
+No pathological enhancement of the parenchyma, meninges, or cranial nerves.
+
+Well-circumscribed extra-axial round cystic formation in the right temporopolar region in T1 hypo signal, marked T2 hyper signal, no enhancement after injection, measuring 17 x 24 mm in the axial plane.
+Moderate mass effect on the adjacent parenchyma, with no signal abnormalities.
+
+IMPRESSION:
+No recent bleeding.
+No stenosis of the arteries of the Circle of Willis.
+Right temporopolar arachnoid cyst measuring 17x24mm.","G44.53,G93.0"
+Fr,MR,Brain,"IRM CEREBRALE
+INDICATION Suspicion d'AVC chez un patient de 43 ans présentant une hypoesthésie de l'hémi face gauche depuis 3 jours avec hypoesthésie de la langue gauche et légère chute de la commissure labiale toujours à gauche. Suspicion de lésion ischémique. 
+PROTOCOLE Séquences Axiales FLAIR, SWI et Diffusion avec reconstruction Cartographie ADC. Séquence 3D TOF sur le polygone de Willis.
+RESULTAT Absence de lésion ischémique ou hémorragique récente. Absence d'anomalie de signal ou de morphologie du parenchyme cérébral.Intégrité des espaces liquidiens intra et péricérébraux.Structures médianes en place.
+Perméabilité des artères du polygone de Willis sans image d'addition ou de sténose.
+CONCLUSION Pas d'arguments pour une lésion hémorragique ou ischémique récente.Absence d’occlusion artérielle sur le polygone de Willis","BRAIN MRI
+CLINICAL HISTORY: 43 y/o male with hypoesthesia of the left hemiface for 3 days with left tongue hypoesthesia and slight drooping of the left labial commissure. // suspicion of stroke in a patient presenting
+PROTOCOL: Axial FLAIR, SWI, and Diffusion sequences with ADC mapping reconstruction. 3D TOF sequence on the circle of Willis.
+RESULTS: No recent ischemic or hemorrhagic lesion. No signal or morphology abnormalities of the cerebral parenchyma. Integrity of the intra and pericerebral fluid spaces. Median structures in place.
+Permeability of the arteries of the circle of Willis without any additional imaging or stenosis.
+IMPRESSION: No evidence of recent hemorrhagic or ischemic lesions. No arterial occlusion on the circle of Willis.",R201
+Fr,MR,Abdomen,"IRM HÉPATIQUE
+ 
+INDICATION :
+Suivi de vraisemblable NASH sans fibrose en mesure non-invasive mais avec dysmorphie hépatique marquée. Dépistage de CHC et quantification de la stéatose.
+ 
+PROTOCOLE :
+Séquences axiale et coronale T2, axiale diffusion, axial T1 Dixon sans et avec injection de gadolinium
+ 
+RESULTAT :
+Hépatomégalie stéatosique (flèche hépatique droite de 23 cm), modérément dysmorphique. Contours lisses. Perméabilité des vaisseaux afférents et efférents hépatiques. Pas de lésion focale hépatique visible.
+Pas de dilatation des voies biliaires. Antécédent de cholécystectomie.
+Splénomégalie de 15 cm. Pas de voie de dérivation porto-systémique. Pas d'ascite.
+Poursuite de la diminution de la lésion pancréatique caudale inférieure, de 18 vs 25 mm, compatible avec l'évolution du pseudo-kyste.
+Pas d'autre lésion pancréatique focale. Canal pancréatique principal fin.
+Pas d'adénomégalie à l'étage-abdominal. Surrénales fines
+ 
+CONCLUSION :
+hépatomégalie stéatosique sans lésion focale suspecte. ","MRI of the Liver
+
+CLINICAL HISTORY:
+Follow-up of likely NASH without fibrosis using non-invasive measures but with marked hepatic dysmorphia. Screening for HCC and quantification of steatosis.
+
+Protocol:
+Axial and coronal T2 sequences, axial diffusion, axial T1 Dixon without and with gadolinium injection.
+
+Results:
+Steatotic hepatomegaly (right liver span of 23 cm), moderately dysmorphic. Smooth contours. Permeability of the hepatic afferent and efferent vessels. No visible focal liver lesion.
+No dilation of the bile ducts. History of cholecystectomy.
+Splenomegaly of 15 cm. No portosystemic shunt pathway. No ascites.
+Continued reduction in size of the lower caudal pancreatic lesion, from 18 mm to 25 mm, consistent with the evolution of a pseudocyst.
+No other focal pancreatic lesions. Main pancreatic duct is slender.
+No abdominal lymphadenopathy. Slender adrenal glands.
+
+IMPRESSION:
+Steatotic hepatomegaly without suspicious focal lesions.","K75.81,R16.2,Z90.49,K86.3"
+Fr,MR,Abdomen,"INDICATION :
+Patiente suivie depuis décembre 2014 pour carcinose péritonéale d'origine ovarienne. Contrôle de lésions hépatiques qui sur l'IRM du 12 octobre 2015 étaient en faveur de lésions secondaires. Absence de fixation des lésions hépatiques sur le TEP-scanner du 12 décembre 2015 à la différence des multiples lésions péritonéales. Régression des lésions péritonéales sur le dernier scanner de contrôle le 29 janvier 2016.
+ 
+PROTOCOLE :
+Séquence pondérée en T2, diffusion, T1 sans puis après injection de gadolinium.
+ 
+RESULTAT :
+Comparaison à l'IRM du 12 octobre 2015.
+ 
+Le foie est de taille normale et présente des contours réguliers.
+Les veines sus-hépatiques et le tronc porte sont perméables.
+ 
+Aspect inchangé de deux lésions hépatiques focales :
+- nodule de 12 mm du segment VI
+- nodule de 4 mm du segment III.
+Ces deux nodules sont en hyposignal T1, non hépatocytaire, en hypersignal T2 persistant à TE long comme sur l'IRM pré-thérapeutique, avec restriction de la diffusion. Après injection, il existe une prise de contraste centripète progressive, sans motte périphérique. On retrouve une rétraction capsulaire en regard de la lésion du segment VI.
+ 
+Pas de lésion hépatique focale nouvellement apparue.
+ 
+Pas de dilatation des voies biliaires intra ou extrahépatiques.
+Absence d'ascite.
+ 
+ 
+CONCLUSION :
+Stabilité des deux nodules hépatiques non hépatocytaires par rapport à l'IRM de 2020 : lésion secondaire? Autre?
+Nous restons à votre disposition pour la réalisation de biopsies hépatiques si nécessaire.","CLINICAL HISTORY:
+Patient has been followed since December 2014 for peritoneal carcinomatosis of ovarian origin. Monitoring of liver lesions that on the MRI of October 12, 2015, were suggestive of secondary lesions. No uptake of liver lesions on the PET scan of December 12, 2015, unlike the multiple peritoneal lesions. Regression of peritoneal lesions on the last control scan of January 29, 2016.
+
+Protocol:
+T2-weighted, diffusion, T1 sequences before and after gadolinium injection.
+
+Results:
+Comparison with the MRI of October 12, 2015.
+
+The liver is of normal size and has regular contours.
+The suprahepatic veins and the portal trunk are permeable.
+
+Unchanged appearance of two focal hepatic lesions:
+
+12 mm nodule in segment VI
+4 mm nodule in segment III.
+Both nodules show hypointensity on T1, non-hepatocyte, hyperintensity on T2 at long TE as in pre-therapeutic MRI, with diffusion restriction. After injection, there is progressive centripetal contrast enhancement, without peripheral clumping. Capsular retraction is observed in relation to the lesion in segment VI.
+
+No new focal hepatic lesions.
+
+No dilation of intrahepatic or extrahepatic bile ducts.
+No ascites.
+
+IMPRESSION:
+Stability of the two non-hepatocyte hepatic nodules compared to the MRI of 2020: secondary lesion? Other?
+We remain at your disposal for performing hepatic biopsies if necessary.","C56.9,C78.6"
+Fr,MR,Medulla,"IRM MÉDULLAIRE
+ 
+INDICATION :
+Antécédent de myélopathie par intoxication au protoxyde d'azote.
+Réapparition de polynévrite des membres inférieurs suite à une reprise de la consommation. Recherche de signes de myélite et de l'apparition d'une atteinte cordonale postérieure.
+ 
+PROTOCOLE : 
+séquences sagittales T2, STIR, T1 sans et après injection de gadolinium. Séquence axiale T2 centrée sur C5-C7.
+ 
+RESULTAT :
+Comparaison à l'IRM du 8 août 2023.
+ 
+Absence d'anomalie morphologique ou de signal du cordon médullaire apparue.
+ 
+Absence de prise de contraste pathologique du cordon médullaire, des racines de la queue de cheval et des méninges.
+ 
+Remaniements dégénératifs du rachis cervical, avec bombements discaux postérieurs en C5-C6 et C6-C7, entraînant un discret rétrécissement canalaire. 
+Persistance d'espaces liquidiens péri-médullaires. 
+Absence d'anomalie de signal du cordon médullaire en regard.
+Respect des espaces liquidiens péri-médullaires par ailleurs.
+ 
+ 
+Goitre thyroïdien multinodulaire, à confronter aux données d'une échographie.
+ 
+CONCLUSION :
+- Absence d'argument IRM en faveur d'une myélopathie.
+- Goitre thyroïdien multinodulaire, à confronter aux données d'une échographie. ","SPINAL MRI
+
+CLINICAL HISTORY:
+History of myelopathy due to nitrous oxide intoxication.
+Reoccurrence of polyneuropathy in the lower limbs following resumption of consumption. Investigation for signs of myelitis and the development of posterior cord involvement.
+
+PROTOCOL:
+Sagittal sequences T2, STIR, T1 with and without gadolinium enhancement. Axial T2 sequence centered on C5-C7.
+
+RESULT:
+Comparison with MRI dated August 8, 2023.
+
+No morphological abnormalities or signal changes in the spinal cord noted.
+
+No pathological enhancement of the spinal cord, cauda equina roots, or meninges observed.
+
+Degenerative changes in the cervical spine, with posterior disc bulges at C5-C6 and C6-C7, causing slight canal narrowing.
+Persistence of perimedullary fluid spaces.
+No signal abnormalities observed in the spinal cord at these levels.
+Perimedullary fluid spaces otherwise maintained.
+
+Multinodular thyroid goiter, to be correlated with ultrasound data.
+
+IMPRESSION:
+No MRI evidence supporting myelopathy.
+Multinodular thyroid goiter, to be correlated with ultrasound data.","G95.89,E04.2,M48.02,M53.82,G62.9"
+Fr,MR,Abdomen,"IRM DU PANCRÉAS ET DES VOIES BILIAIRES
+ 
+INDICATION :
+En mars, Douleurs épigastriques, constipation, sans inflammatoire biologique. Aux Urgences, infiltration de la tête du pancréas en lien avec une pancréatite non sévère. Bilan étiologique. 
+ 
+PROTOCOLE :
+Séquences morphologiques, oblique, de diffusion et après injection
+ 
+RESULTAT :
+Foie de taille et morphologie normales, stéatosique. Absence de lésion hépatique focale. Pas de dilatation des voies biliaires intra ou extrahépatiques. Pas d'anomalie vésicule biliaire, non distendue, à parois fines, alithiasique.
+Pancréas de trophicité normale, en hypersignal T1 spontané physiologique. Canal pancréatique principal fin, de disposition modale.
+Pas de lésion pancréatique focale visible.
+Rate de taille normale. Intégrité des surrénales et des reins.
+ 
+CONCLUSION : Disparition de l'infiltration péri-pancréatique. Pas de collection intra ou péri-pancréatique ni autre lésion focale. Pas d'orientation étiologique en imagerie à la pancréatite aiguë.","MRI OF THE PANCREAS AND BILIARY TRACT
+
+CLINICAL HISTORY:
+In March, epigastric pain, constipation, without biological inflammatory markers. At the Emergency Department, infiltration of the pancreatic head consistent with non-severe pancreatitis. Etiological assessment.
+
+PROTOCOL:
+Morphological sequences, oblique, diffusion, and post-contrast.
+
+RESULT:
+Liver of normal size and morphology, steatotic. No focal liver lesions. No dilatation of intrahepatic or extrahepatic bile ducts. No gallbladder abnormalities, not distended, with thin walls, stone-free.
+Pancreas of normal trophicity, with physiological spontaneous T1 hyperintensity. Main pancreatic duct is thin and normally positioned.
+No visible focal pancreatic lesions.
+Spleen of normal size. Integrity of the adrenal glands and kidneys.
+
+IMPRESSION:
+Resolution of peripancreatic infiltration. No intra- or peripancreatic collections or other focal lesions. No imaging leads for the etiology of acute pancreatitis.","R10.13, K86.9, K59.00,"
+Fr,CT,Brain,"SCANNER CÉRÉBRAL
+ 
+INDICATION :
+Troubles de la conscience chez une patiente en cours de bilan pour une tumeur frontale gauche.
+ 
+PROTOCOLE :
+Acquisition hélicoïdale sans injection.
+ 
+RESULTATS : comparaison au scanner du 12/10/2021.
+ 
+Stabilité de la lésion frontale supérieure gauche de 41x32 mm, avec stabilité de l'œdème péri-lésionnel.
+Pas d'effet de masse significatif sur les structures adjacentes.
+Régression de la déviation de la ligne médiane, en place. Pas d'engagement.
+Pas d'hydrocéphalie.
+Pas de lésion hémorragique cérébrale ou méningée apparue.
+Pas de collection péri-cérébrale.
+ 
+CONCLUSION :
+Stabilité de la lésion frontale supérieure gauche et de son œdème péri-lésionnel sans effet de masse significatif. 
+Pas de saignement intracrânien récent, d'engagement ni hydrocéphalie.
+ ","HEAD CT SCAN
+
+CLINICAL HISTORY:
+Consciousness disorders in a patient undergoing evaluation for a left frontal tumor.
+
+PROTOCOL:
+Helical acquisition without injection.
+
+RESULTS: comparison with the CT scan from 10/12/2021.
+
+Stability of the left upper frontal lesion measuring 41x32 mm, with stability of the surrounding edema.
+No significant mass effect on adjacent structures.
+Regression of midline shift, currently stable. No herniation.
+No hydrocephalus.
+No new cerebral or meningeal hemorrhagic lesions.
+No peri-cerebral collection.
+
+IMPRESSION:
+Stability of the left upper frontal lesion and its surrounding edema without significant mass effect.
+No recent intracranial bleeding, herniation, or hydrocephalus.","D43.0,G93.6"
+Fr,CT,Brain,"SCANNER CEREBRAL 
+INDICATION :
+Céphalées chroniques
+ 
+TECHNIQUE :
+Acquisition hélicoïdale. Examen réalisé sans injection.
+ 
+RESULTAT :
+ 
+Absence d’hémorragie intra ou péri-cérébrale.
+Absence de syndrome de masse intracrânien
+Absence d’anomalie de densité focale ou diffuse du parenchyme.
+Morphologie normale du système ventriculaire.
+Absence d'engagement.
+ 
+Comblement subtotal bilatéral des cellules ethmoïdales et total des sinus frontaux
+Comblement polypoïde partiel des sinus maxillaires.
+Épaississement muqueux en cadre des sinus sphénoïdaux
+
+CONCLUSION :
+Pas de syndrome de masse intracrânien.
+Comblement subtotal bilatéral des cellules ethmoïdales et total des sinus frontaux.","HEAD CT SCAN
+
+CLINICAL HISTORY:
+Chronic headaches
+
+TECHNIQUE:
+Helical acquisition. Exam performed without injection.
+
+RESULT:
+
+No intra or peri-cerebral hemorrhage.
+No signs of intracranial mass effect.
+No focal or diffuse density abnormalities in the parenchyma.
+Normal morphology of the ventricular system.
+No herniation.
+
+Subtotal bilateral filling of the ethmoid cells and total filling of the frontal sinuses.
+Partial polypoid filling of the maxillary sinuses.
+Mucosal thickening in the frame of the sphenoid sinuses.
+
+IMPRESSION:
+No intracranial mass effect.
+Subtotal bilateral filling of the ethmoid cells and total filling of the frontal sinuses.",J34.9
+Fr,CT,Neck Thorax,"SCANNER CERVICO-THORACIQUE
+ 
+INDICATION :
+Contrôle d'un carcinome de la margelle laryngée postérieure.
+ 
+PROTOCOLE :
+Acquisition hélicoïdale centrée sur la face et le cou après injection biphasique de produit de contraste. Acquisition après manœuvre de Valsalva. Acquisition à l'étage thoracique.
+ 
+RESULTAT :
+ 
+Comparaison au scanner post-thérapeutique du 01/06/2022.
+
+1) A l'étage cervical :
+
+- Sur le plan muqueux :
+Œdème pharyngo-laryngé diffus, d'origine post-thérapeutique.
+Stabilité d'un épaississement nodulaire de 11x9mm de la muqueuse laryngée postérieure, prenant discrètement le contraste.
+Pas d'autre syndrome de masse ni rehaussement pathologique du nasopharynx, de la cavité orale, de l'oropharynx ou de l'hypopharynx.
+
+- Sur le plan ganglionnaire :
+Involution adipeuse submandibulaire bilatérale.
+Stabilité de la formation nodulaire située à la partie postérieure et inférieure de l'espace submandibulaire droit.
+Stabilité en taille et en nombre des formations ganglionnaires jugulo-carotidiennes inférieures droites, de petit axe centimétrique.
+
+2) A l'étage thoracique :
+
+- En fenêtre médiastinale :
+Pas d'adénomégalie axillaire, médiastinale ou hilaire.
+Pas d'épanchement pleural ou péricardique.
+Cardiomégalie globale, à prédominance bi-auriculaire.
+Calcifications pariétales de la crosse aortique, de l'artère inter-ventriculaire antérieure et de l'artère circonflexe
+
+- En fenêtre parenchymateuse :
+Apparition d'une infiltration en verre dépoli bilatérale des régions inférieures, avec une plage bien limitée de S6 et S9D.
+Branchiolectrasies en bibasal.
+Pas de masse ou condensation nodulaire suspecte.
+Stabilité des 3 micronodules, d'allure non spécifique :
+- micronodule sous-pleural de S6D de 3 mm,
+- micronodule juxta-scissural de S5D de 2 mm,
+- micronodule de S2D de 2 mm.
+Pas de nouveau nodule ou micronodule de taille significative.
+Régression de la condensation postéro-basale droite, confirmant sa nature infectieuse.
+
+- En fenêtre osseuse :
+Apparition d'une fracture-tassement cunéiforme de T5, responsable d'une perte de hauteur d'environ 50% du corps vertébral, sans lyse corticale ni recul du mur vertébral postérieur.
+Stabilité des tassements des plateaux supérieurs de T8 et de L1.
+
+
+CONCLUSION :
+- Stabilité de la formation nodulaire hypodense commissurale postérieure droite.
+- Pas d'adénomégalie cervicale.
+- Pas de nodule pulmonaire évolutif.
+- Apparition d'une infiltration en verre dépoli bilatérale prédominant à droite: origine infectieuse?","NECK AND LUNGS CT SCAN
+
+CLINICAL HISTORY:
+Follow-up of a carcinoma of the posterior laryngeal commissure.
+
+PROTOCOL:
+Helical acquisition focused on the face and neck following biphasic contrast injection. Acquisition post-Valsalva maneuver. Acquisition at the thoracic level.
+
+RESULT:
+
+Comparison with post-therapeutic CT scan from 06/01/2022.
+
+Cervical Level:
+
+Mucosal aspect:
+Diffuse pharyngolaryngeal edema of post-therapeutic origin.
+Stable nodular thickening measuring 11x9mm on the posterior laryngeal mucosa, showing slight contrast enhancement.
+No other mass syndrome or pathological enhancement of the nasopharynx, oral cavity, oropharynx, or hypopharynx.
+
+Lymph node aspect:
+Bilateral submandibular adipose involution.
+Stable nodular formation in the posterior and lower part of the right submandibular space.
+Stable size and number of jugulocarotid lymph nodes at the lower right side, with a small centimeter axis.
+
+Thoracic Level:
+
+Mediastinal window:
+No axillary, mediastinal, or hilar adenopathy.
+No pleural or pericardial effusion.
+Global bi-atrial cardiomegaly.
+Parietal calcifications of the aortic arch, anterior interventricular artery, and circumflex artery.
+
+Parenchymal window:
+Appearance of bilateral ground-glass infiltration in the lower regions, with well-defined patches in segments S6 and S9D.
+Bibasal bronchiolectasis.
+No suspicious nodular mass or consolidation.
+Stability of 3 nonspecific-looking micronodules:
+- Subpleural micronodule in S6D of 3 mm,
+- Juxtascissural micronodule in S5D of 2 mm,
+- Micronodule in S2D of 2 mm.
+No new nodules or micronodules of significant size.
+Regression of the right posterobasal consolidation, confirming its infectious nature.
+
+Osseous window:
+Appearance of a wedge compression fracture of T5, resulting in approximately 50% height loss of the vertebral body, without cortical lysis or posterior vertebral wall retraction.
+Stable compression of the superior endplates of T8 and L1.
+
+IMPRESSION: 
+- Stability of the right posterior commissural hypodense nodular formation.
+- No cervical adenopathy.
+- No progressive pulmonary nodule.
+- Appearance of bilateral ground-glass infiltration predominantly on the right: infectious origin?","C32.1,T66,J38.4,K11.0,I51.7,I70.01,R91.8,M48.54XA,M48.54XS,M48.56XS"
+Fr,US,Abdomen Pelvis,"Echographie abdominopelvienne
+
+Indication: Suspicion d’appendicite chez une enfant de 6 ans avec une douleur en fosse iliaque droite. Pas de résultats de CRP à notre disposition.
+
+Résultats: Appendice de naissance latéro-caecale interne, vu dans sa totalité, augmenté de taille à 11mm à sa pointe, dédfférencié.
+Infiltration de la graisse péri-appendiculaire.
+Pas d’abcès macroscopique.
+Pas d’épanchement abdominopelvien.
+
+Par ailleurs,
+Foie normal. Pas de spnélomégalie. Vésicule biliaire alithiasique.
+Reins de taille et de morphologie normales pour l’âge (96mm à gauche, 95mm à droite).
+Pas de dilatation des cavités pyélocalicielles.
+Vessie vide. Ovaires non vus.
+
+Conclusion: Examen compatible avec une appendicite aigue non compliquée.","Abdominopelvic Ultrasound
+
+CLINICAL HISTORY: Suspected appendicitis in a 6-year-old child with right iliac fossa pain. No CRP results available.
+
+Results:
+
+Appendix originating from the internal lateral-cecal region, fully visualized, enlarged at 11mm at its tip, with loss of definition.
+Infiltration of the peri-appendicular fat.
+No macroscopic abscess.
+No abdominopelvic effusion.
+
+Additionally:
+Normal liver. No splenomegaly. Gallbladder without stones.
+Kidneys normal in size and morphology for age (96mm left, 95mm right).
+No sign of urinary obstruction
+Empty bladder. Ovaries not visualized.
+
+Impression: Findings consistent with uncomplicated acute appendicitis.","R10.31,K35.80"
+Fr,US,Abdomen Pelvis,"Echographie abdominopelvienne
+
+Indication: Bilan de douleurs abdominales chroniques chez une patiente de 45 ans.
+
+Résultats: Foie de taille et de morphologie normale.
+Stéatose hépatique.
+Pas de dilatation des voies biliaires intra ou extra hépatiques.
+Vésicule biliaires aux parois fines, alithiasique.
+Perméabilité du tronc porte et des veines sus-hépatiques.
+Pas de splénomégalie.
+Tête du pancréas normale. Le reste de la glande n’est pas vu en raison d’interpositions digestives.
+Reins de taille et de morphologie normales (environ 11cm à gauche comme à droite).
+Pas de dilatation des cavités pyélocalicielles.
+Pas de lithiase rénale visible.
+Pas d’épanchement abdominopelvien.
+Vessie en réplétion à contenu anéchogène.
+
+Conclusion: Echographie normale en dehors d’une stéatose hépatique.","Abdominopelvic Ultrasound
+
+CLINICAL HISTORY: Evaluation of chronic abdominal pain in a 45-year-old female patient.
+
+Results:
+
+Liver is normal in size and morphology.
+Hepatic steatosis.
+No dilation of intrahepatic or extrahepatic bile ducts.
+Gallbladder with thin walls, without stones.
+Patency of the portal trunk and suprahepatic veins.
+No splenomegaly.
+Normal head of the pancreas. The rest of the gland is not visible due to intestinal overlay.
+Kidneys normal in size and morphology (approximately 11 cm on both left and right).
+No dilation of the pyelocaliceal cavities.
+No visible renal stones.
+No abdominopelvic effusion.
+Bladder is full with anechoic content.
+
+Impression: Normal ultrasound except for hepatic steatosis.",K76.0
+Fr,CT,Thorax Abdomen Pelvis,"SCANNER THORACO-ABDOMINO-PELVIEN
+ 
+INDICATION :
+Bilan de fin de traitement dans un contexte de leucémie lymphoïde chronique. 
+ 
+TECHNIQUE :
+Acquisition hélicoïdale réalisée après injection IV de produit de contraste au temps veineux à l'étage cervico-thoraco-abdomino-pelvien.
+ 
+RESULTAT :
+Comparaison avec le scanner antérieur du 15 mai 2018.
+ 
+A l'étage cervico-thoracique:
+Régression des multiples formations ganglionnaires sous-mandibulaires, jugulo-carotidiennes et spinales bilatérales précédemment décrite sans cible mesurable ce jour.
+Pas d'adénomégalie médiastino-hilaire ou axillaire visualisée ce jour.
+Pas d'épanchement pleural ou péricardique.
+Stabilité en taille des micronodules pulmonaires précédemment décrits : de S2G de 4mm, paramédiastinale lobaire moyen de 5 mm et sous-pleural de S8 D de 4mm.
+Pas de nodule pulmonaire nouvellement apparu.
+Stabilité des troubles ventilatoires du lobe moyen et de la lingula.
+ 
+A l'étage abdomino-pelvien:
+Stabilité de l'hépato-splénomégalie homogène (flèche hépatique droite à 17,5cm et flèche splénique à 14,5cm).
+Régression des adénomégalies cœlio-mésentériques, rétropéritonéales, pelviennes et inguinales précédemment décrites. Persistance d'une formation ganglionnaire du hile hépatique de 5 mm de petit axe (vs 30mm précédemment).
+Ganglions pelviens bilatéraux infracentimétriques (respectivement 6mm de petit axe à droite et 7mm à gauche vs 28mm et 30mm).
+Aspect stable du foie, de la vésicule biliaire, de la rate, du pancréas, des reins ou des surrénales.
+Diverticulose sigmoïdienne sans signe de complication.
+Filtre cave en place en position sous-rénale.
+Pas d'épanchement liquidien intrapéritonéal. 
+ 
+En fenêtre osseuse :
+Pas de lésion osseuse lytique ou condensante suspecte visualisée sur le volume exploré.
+ 
+CONCLUSION :
+Régression des adénomégalies sus et sous-diaphragmatiques précédemment décrites.","THORACO-ABDOMINO-PELVIC SCAN
+
+CLINICAL HISTORY:
+End-of-treatment assessment in the context of chronic lymphocytic leukemia.
+
+TECHNIQUE:
+Helical acquisition performed post-intravenous injection of contrast agent during venous phase, covering cervical, thoracic, abdominal, and pelvic regions.
+
+RESULT:
+Comparison with previous scan dated May 15, 2018.
+
+Cervico-thoracic region:
+Regression of multiple previously described nodal formations including submandibular, jugulo-carotid, and bilateral spinal nodes, with no measurable target today.
+No mediastinal or axillary lymphadenopathy visualized today.
+No pleural or pericardial effusion noted.
+Stability in size of previously described pulmonary micronodules: 4mm at S2G, 5mm in the middle mediastinal lobe, and 4mm subpleural at S8D.
+No newly appearing pulmonary nodules.
+Stability of ventilatory disturbances in the middle lobe and lingula.
+
+Abdomino-pelvic region:
+Stable homogeneous hepatosplenomegaly (right liver span at 17.5cm and splenic span at 14.5cm).
+Regression of previously described celiac-mesenteric, retroperitoneal, pelvic, and inguinal lymphadenopathies. Persistence of a nodal formation at the hepatic hilum measuring 5mm in short axis (vs 30mm previously).
+Bilateral pelvic nodes are sub-centimetric (respectively 6mm on the right and 7mm on the left short axis vs 28mm and 30mm previously).
+Stable appearance of the liver, gallbladder, spleen, pancreas, kidneys, and adrenal glands.
+Sigmoid diverticulosis without signs of complication.
+Inferior vena cava filter in place in subrenal position.
+No intraperitoneal fluid effusion.
+
+Bone window:
+No lytic or sclerotic bone lesions suspected within the explored volume.
+
+IMPRESSION:
+Regression of previously described supra- and sub-diaphragmatic lymphadenopathies.","R16.2,C91.91,R91.8,K57.30,Z95.8"
+Fr,CT,Thorax Abdomen Pelvis,"SCANNER THORACO-ABDOMINO-PELVIEN
+ 
+INDICATION :
+Surveillance chez une patiente aux antécédents de carcinome pulmonaire muté EGFR sous Tagrisso depuis août 2020 avec lésions secondaires pleurales et hépatiques. 
+ 
+TECHNIQUE :
+Acquisition hélicoïdale réalisée après injection IV de produit de contraste au temps veineux en technique double énergie sur le thorax, l'abdomen et le pelvis.
+ 
+RESULTAT :
+Comparaison avec le scanner antérieur du 3 janvier 2021.
+ 
+A l'étage thoracique:
+Aspect stable de la condensation rétractile lobaire inférieure droite renfermant des bronchectasies, vraisemblablement post-radique.
+Pas de nodule pulmonaire suspect apparu.
+Stabilité des lésions emphysémateuses bilatérales prédominant dans les régions supérieures.
+Aspect stable des épaississements pseudo-nodulaires de la plèvre et des scissures du côté droit, partiellement hyperdenses, à confronter aux antécédents (probable talcage).
+Pas d'épanchement pleural ou péricardique.
+Pas d'adénomégalie médiastino-hilaire.
+ 
+A l'étage abdomino-pelvien:
+Stabilité des formations hypodenses intrahépatiques infracentimétriques (micro-kystiques ?).
+Pas de lésion hépatique focale suspecte apparue.
+Pas de masse surrénalienne.
+Aspect inchangé de la rate, du pancréas et des reins.
+Pas d'adénomégalie mésentérique ou lombo-aortique.
+Pas d'épanchement liquidien intrapéritonéal.
+ 
+En fenêtre osseuse :
+Pas de lésion osseuse lytique ou condensante suspecte apparue sur le volume exploré.
+ 
+CONCLUSION :
+Stabilité de l'examen par rapport à celui de janvier 2021.
+ ","THORACO-ABDOMINAL-PELVIC SCAN
+
+CLINICAL HISTORY:
+Follow-up in a female patient with a history of EGFR-mutated lung carcinoma on Tagrisso since August 2020 with secondary pleural and hepatic lesions.
+
+TECHNIQUE:
+Helical acquisition performed after IV injection of contrast material in venous timing using dual-energy technique on the chest, abdomen, and pelvis.
+
+RESULT:
+Comparison with the previous scan from January 3, 2021.
+
+Thorax
+Stable appearance of the right lower lobar retractile consolidation containing bronchiectasis, likely post-radiation.
+No suspicious pulmonary nodules appeared.
+Stability of the bilateral emphysematous lesions predominating in the upper regions.
+Stable appearance of pseudo-nodular thickenings of the pleura and fissures on the right side, partially hyperdense, to be correlated with history (probable talc pleurodesis).
+No pleural or pericardial effusion.
+No mediastinal or hilar lymphadenopathy.
+
+Abdomen: Stability of the subcentimeter hypodense intrahepatic formations (micro-cystic?).
+No suspicious focal hepatic lesions appeared.
+No adrenal mass.
+Unchanged appearance of the spleen, pancreas, and kidneys.
+No mesenteric or lumbo-aortic lymphadenopathy.
+No intraperitoneal fluid effusion.
+
+Bone:
+No suspicious lytic or sclerotic bone lesions appeared on the explored volume.
+
+IMPRESSION:
+Stability of the examination compared to that of January 2021.","C34.31,J70.1,J43.9,J92.9"
+Fr,CT,Thorax Abdomen Pelvis,"SCANNER THORACO-ABDOMINO-PELVIEN
+ 
+INDICATION :
+Bilan de lymphome non hodgkinien folliculaire de diagnostic récent.
+Recherche d'adénopathie profonde.
+ 
+PROTOCOLE :
+Acquisition spiralée réalisée au temps veineux.
+ 
+RESULTAT :
+Poly-adénopathies et ganglions axillaires bilatéraux ; les plus gros au niveau axillaire droit, mesurent 18 x 17m de diamètre, au niveau axillaire gauche 22 x 16mm de diamètre.
+Présence d'une adénopathie sous carinaire, centimétrique.
+Pas d'adénopathie hilaire.
+Pas d'épanchement pleural, ni péricardique.
+ 
+- Sur le plan parenchymateux pulmonaire :
+Aucune nodule pulmonaire suspect visible.
+Pas de lésion pleuro-parenchymateuse évolutive.
+Aucune condensation pulmonaire.
+ 
+- Sur le plan abdomino-pelvien :
+Flèche du foie 16cm, flèche de la rate 13.4cm.
+Absence de lésion focale hépatique suspecte.
+Quelques microkystes biliaires, très hypodenses, du segment VIII et du segment V.
+Rate homogène.
+Absence de masse surrénalienne.
+Pas de lésion rénale.
+Pas d'anomalie des voies biliaires.
+Présence de plusieurs adénopathies cœlio-mésentériques et rétropéritonéales latéro-aortiques gauches, latéro-aortiques droites, inter-aortico-caves, pré-aortiques ; les plus gros au niveau du hile rénal gauche mesurent en site cible 33 x 21mm de diamètre, en latéro-cave deuxième cible abdominale 23 x 14mm de diamètre ; au niveau cœlio-mésentérique, la plus grosse mesure, en avant de l'artère mésentérique supérieure, 13 x 16.5mm de diamètre. Au niveau iliaque, présence également d'adénopathies iliaques externes droites et gauches mesurées à droite, à 26 x 14mm de diamètre, à gauche 18 x 12mm de diamètre.
+Quelques petits ganglions inguinaux droits et gauches, le plus volumineux à droite mesurant 13.5mm sur 18mm de diamètre.
+ 
+- Sur le plan osseux :
+Absence de lésion osseuse lytique ou condensante sur le volume exploré.
+ 
+ 
+CONCLUSION :
+ 
+Poly-adénopathies essentiellement axillaires bilatérales et rétropéritonéales telle que décrites.
+Pas d'anomalie viscérale.","CLINICAL HISTORY:
+Evaluation of recently diagnosed follicular non-Hodgkin's lymphoma.
+Search for deep lymphadenopathy.
+
+PROTOCOL:
+Spiral acquisition performed during the venous phase.
+
+FINDINGS:
+Multiple axillary lymphadenopathies bilaterally; the largest in the right axillary region measure 18 x 17 mm in diameter, and in the left axillary region 22 x 16 mm in diameter.
+Presence of a subcarinal lymph node, centimetric in size.
+No hilar lymphadenopathy.
+No pleural or pericardial effusion.
+
+Lung:
+No visible suspicious pulmonary nodules.
+No active pleuroparenchymal lesions.
+No pulmonary consolidation.
+
+Abdomen:
+Liver span 16 cm, spleen span 13.4 cm.
+No focal hepatic lesions of concern.
+Several very hypodense microcysts in hepatic segments VIII and V.
+Spleen is homogeneous.
+No adrenal masses.
+No renal lesions.
+No abnormalities in the biliary tract.
+Presence of multiple celiomesenteric and retroperitoneal lymphadenopathies around the aorta on the left and right sides, inter-aortocaval, pre-aortic; the largest at the left renal hilum measuring 33 x 21 mm in diameter, laterocaval second abdominal target measuring 23 x 14 mm in diameter; at the celiomesenteric level, the largest anterior to the superior mesenteric artery measures 13 x 16.5 mm in diameter. In the iliac region, there are also external iliac lymphadenopathies on both right and left sides, measuring 26 x 14 mm on the right and 18 x 12 mm on the left.
+A few small right and left inguinal lymph nodes, the largest on the right measuring 13.5 x 18 mm in diameter.
+
+Bone:
+No lytic or sclerotic bone lesions within the explored volume.
+
+IMPRESSION:
+Polyadenopathies mainly bilateral axillary and retroperitoneal as described.
+No visceral abnormalities.","C82.98,R59.0"
+Fr,CT,Thorax Abdomen Pelvis,"SCANNER THORACO-ABDOMINO-PELVIEN
+ 
+INDICATION :
+Réévaluation d'un adénocarcinome colique en dissémination hépatique après 6 cures de chimiothérapie.
+ 
+TECHNIQUE :
+Acquisition spiralée d'emblée après injection au temps veineux aux étages thoracique, abdominal et pelvien.
+ 
+RESULTAT :
+ 
+Comparaison au scanner thoraco-abdomino-pelvien précédent du 09/04/2017.
+ 
+1) A l'étage thoracique :
+ 
+- En fenêtre médiastinale :
+Régression partielle de l'adénomégalie cardio-phrénique antérieure droite, le plus volumineux ganglion mesurant 4 mm (contre 9 mm).
+Pas d'adénomégalie axillaire, médiastinale ou hilaire.
+Pas d'épanchement pleural ou péricardique.
+Extrémité distale du cathéter veineux du PAC en place.
+Hernie hiatale par glissement.
+ 
+- En fenêtre parenchymateuse :
+Pas de masse, nodule ou micronodule de taille significative.
+Stabilité de l'infiltration réticulaire sous-pleurale basale droite.
+ 
+2) A l'étage abdomino-pelvien :
+ 
+Régression partielle de l'épaississement pariétal sigmoïdien, étendu sur 35 mm de hauteur (contre 55 mm), de l'infiltration péri-sigmoïdienne et des ganglions mésosigmoïdiens adjacents, le plus volumineux mesurant 6 mm (contre 9 mm).
+Pas de nodule péritonéal suspect à distance. 
+ 
+Régression partielle des lésions cibles hépatiques :
+- cible du segment IV A, mesurant 72 mm (contre 87 mm),
+- cible sous-capsulaire postérieur du segment III, mesurant 45 mm (contre 51 mm).
+Régression partielle des lésions non cibles hépatiques.
+Pas de nouvelle lésion identifiée.
+ 
+Perméabilité des axes vasculaires hépatiques afférents et efférents.
+Pas de dilatation des voies biliaires intra-hépatiques ou de la voie biliaire principale.
+Vésicule à paroi fine.
+Pas d'anomalie pancréatique, splénique, rénale ou surrénalienne.
+Stabilité en taille et en nombre des adénomégalies cœliaques, le plus volumineux ganglion étant de topographie inter-porto-cave et mesure 13 mm (contre 14 mm).
+Pas d'adénomégalie rétro-péritonéale ou pelvienne.
+Pas d'épanchement liquidien intra-péritonéal.
+ 
+3) En fenêtre osseuse :
+Pas de lésion osseuse lytique ou condensante suspecte décelée sur le squelette exploré.
+ 
+CONCLUSION :
+- Réponse partielle sigmoïdienne et hépatique.
+- Pas de nouvelle lésion identifiée.","THORACO-ABDOMINO-PELVIC SCAN
+
+CLINICAL HISTORY:
+Re-evaluation of metastatic colonic adenocarcinoma after 6 cycles of chemotherapy.
+
+TECHNIQUE:
+Spiral acquisition immediately post-contrast in the venous phase at the thoracic, abdominal, and pelvic levels.
+
+RESULT:
+
+Comparison with the previous thoraco-abdomino-pelvic CT scan dated 04/09/2017.
+
+Thorax:
+
+In the mediastinal window:
+Partial regression of the right cardiophrenic adenopathy, the largest node now measuring 4 mm (previously 9 mm).
+No axillary, mediastinal, or hilar adenopathy.
+No pleural or pericardial effusion.
+Distal end of the PAC venous catheter in place.
+Sliding hiatal hernia.
+
+In the lung parenchyma:
+No significant masses, nodules, or micronodules.
+Stability of the right basal subpleural reticular infiltration.
+Abdomen:
+
+Partial regression of sigmoid wall thickening, now 35 mm in height (previously 55 mm), peri-sigmoid infiltration, and adjacent mesosigmoid nodes, the largest node now measuring 6 mm (previously 9 mm).
+No distant suspicious peritoneal nodules.
+
+Partial regression of targeted hepatic lesions:
+
+Target in segment IV A, now measuring 72 mm (previously 87 mm),
+Posterior subcapsular target in segment III, now measuring 45 mm (previously 51 mm).
+Partial regression of non-target hepatic lesions.
+No new lesions identified.
+
+Permeability of the afferent and efferent hepatic vascular axes.
+No dilation of the intrahepatic bile ducts or the main bile duct.
+Gallbladder with thin wall.
+No pancreatic, splenic, renal, or adrenal abnormalities.
+Stability in size and number of celiac adenopathies, the largest node located in the interporto-caval area measuring 13 mm (previously 14 mm).
+No retroperitoneal or pelvic adenopathy.
+No intra-peritoneal fluid collection.
+
+Bone:
+No suspicious lytic or sclerotic bone lesions detected on the explored skeleton.
+
+IMPRESSION:
+
+Partial sigmoid and hepatic response.
+No new lesions identified.","C18.7,C78.7,R91.8"
+Fr,CT,Spine,"SCANNER DU RACHIS LOMBAIRE
+ 
+INDICATION :
+Bilan d'une sciatique gauche.
+ 
+PROTOCOLE :
+Acquisition hélicoïdale sans injection de produit de contraste.
+ 
+RESULTAT :
+Absence de lésion osseuse suspecte.
+Respect de hauteur des corps vertébraux.
+Absence de listhésis.
+Absence d'anomalie transitionnelle de la charnière lombosacrée.
+ 
+Canal lombaire constitutionnellement étroit, mesuré 14 mm de diamètre antéro-postérieur.
+ 
+Remaniements dégénératifs pluri-étagés du rachis lombaire bas à type de discopathie dégénérative et d'arthrose zygapophysaire.
+ 
+Étage L4-L5 :
+Débord discal global et arthrose zygapophysaire bilatérale modérée, responsable d'une sténose foraminale bilatérale modérée.
+ 
+Étage L5-S1 :
+Débord discal global avec arthrose zygapophysaire bilatérale modérée à sévère, responsables d'une sténose foraminale bilatérale modérée.
+ 
+CONCLUSION :
+Canal lombaire constitutionnellement étroit, avec remaniements dégénératifs pluri-étagés du rachis lombaire bas responsable de sténoses foraminales bilatérales modérées aux étages L4-L5 et L5-S1.","LUMBAR SPINE CT
+
+CLINICAL HISTORY:
+Evaluation of left-sided sciatica.
+
+TECHNIQUE:
+Helical acquisition without contrast injection.
+
+FINDINGS:
+No suspicious bone lesion observed.
+Normal vertebral body heights maintained.
+No evidence of spondylolisthesis.
+No transitional anomaly at the lumbosacral junction.
+
+Constitutionally narrow lumbar canal, measuring 14 mm in anteroposterior diameter.
+
+Multilevel degenerative changes in the lower lumbar spine including degenerative disc disease and facet arthrosis.
+
+L4-L5:
+Global disc protrusion and moderate bilateral facet arthrosis, causing moderate bilateral foraminal stenosis.
+
+L5-S1:
+Global disc protrusion with moderate to severe bilateral facet arthrosis, causing moderate bilateral foraminal stenosis.
+
+IMPRESSION:
+Constitutionally narrow lumbar canal with multilevel degenerative changes in the lower lumbar spine causing moderate bilateral foraminal stenoses at L4-L5 and L5-S1 levels.","M54.32,M48.06,M48.26,M51.36"
+Fr,CT,Ears,"SCANNER DES ROCHERS
+ 
+INDICATION :
+Bilan d'une surdité de transmission droite.
+ 
+PROTOCOLE :
+Acquisition sans injection.
+ 
+RESULTAT :
+Oreille droite :
+Bonne aération du conduit auditif externe, de l'oreille moyenne et des cellules mastoïdiennes.
+Membrane tympanique fine.
+Intégrité de la chaîne ossiculaire.
+Bonne aération des fenêtres ronde et ovale.
+Pas de foyer d'hypodensité pré-stapédien.
+Intégrité morphologique de la cochlée, du vestibule et des canaux semi-circulaires.
+Déhiscence du canal semi-circulaire supérieur étendu sur 6 mm.
+Pas de procidence du canal du nerf facial.
+ 
+Oreille gauche :
+Bonne aération du conduit auditif externe, de l'oreille moyenne et des cellules mastoïdiennes.
+Membrane tympanique fine.
+Intégrité de la chaîne ossiculaire.
+Bonne aération des fenêtres ronde et ovale.
+Pas de foyer d'hypodensité pré-stapédien.
+Intégrité morphologique de la cochlée, du vestibule et des canaux semi-circulaires.
+Pas de déhiscence du canal semi-circulaire supérieur.
+Pas de procidence du canal du nerf facial.
+ 
+ 
+ 
+CONCLUSION :
+Déhiscence du canal semi-circulaire supérieur droit étendu sur 6 mm (images clés sur le PACS).
+ 
+Intégrité des chaînes ossiculaires.
+Pas de signe évocateur de séquelles infectieuses.","EAR CT
+
+CLINICAL HISTORY:
+Evaluation of right-sided conductive hearing loss.
+
+PROTOCOL:
+Acquisition without injection.
+
+RESULTS:
+
+Right Ear:
+Good aeration of the external auditory canal, middle ear, and mastoid cells.
+Thin tympanic membrane.
+Integrity of the ossicular chain.
+Good aeration of the round and oval windows.
+No hypodensity foci pre-stapedius.
+Morphological integrity of the cochlea, vestibule, and semicircular canals.
+6 mm dehiscence of the superior semicircular canal.
+No protrusion of the facial nerve canal.
+
+Left Ear:
+Good aeration of the external auditory canal, middle ear, and mastoid cells.
+Thin tympanic membrane.
+Integrity of the ossicular chain.
+Good aeration of the round and oval windows.
+No hypodensity foci pre-stapedius.
+Morphological integrity of the cochlea, vestibule, and semicircular canals.
+No dehiscence of the superior semicircular canal.
+No protrusion of the facial nerve canal.
+
+IMPRESSION:
+6 mm dehiscence of the right superior semicircular canal (key images on PACS).
+
+Integrity of the ossicular chains.
+No signs suggestive of infectious sequelae.","Q16.5,H90.11"
+Fr,CT,Ears,"SCANNER DES ROCHERS
+ 
+INDICATION :
+Bilan d'une perforation tympanique gauche et d'une rétraction sous-ligamentaire postérieure droite.
+ 
+PROTOCOLE :
+Acquisition spiralée sans injection centrée sur les rochers.
+ 
+RÉSULTATS :
+ 
+1/ Oreille droite :
+Pneumatisation normale de l'oreille moyenne et des cellules mastoïdiennes, et notamment des fenêtres ovale et ronde.
+Pas d'anomalie de la chaîne ossiculaire.
+Pas d'hypodensité pré-stapédienne .
+Couverture normale du canal semi-circulaire supérieur.
+Intégrité du canal osseux du nerf facial.
+Intégrité des structures constitutives de l'oreille interne.
+ 
+2/ Oreille gauche :
+Ostéocondensation et hypopneumatisation mastoïdienne (aspect éburné).
+Pneumatisation normale de l'oreille moyenne et des cellules mastoïdiennes, et notamment des fenêtres ovale et ronde.
+Pas d'anomalie de la chaîne ossiculaire.
+Pas d'hypodensité pré-stapédienne .
+Couverture normale du canal semi-circulaire supérieur. 
+Défaut de visualisation de la partie postérieure du tegmen tympani et du tegmen antri, sans ptose méningée ou méningo-encéphalique : déhiscence?
+Intégrité du canal osseux du nerf facial.
+Intégrité des structures constitutives de l'oreille interne.
+Procidence mastoïdienne du sinus sigmoïde.
+Position haute du golfe jugulaire.
+ 
+CONCLUSION :
+- Intégrité de l'oreille droite.
+- A gauche :
+• Stigmate d'otite chronique non cholestéatomateuse, sans comblement oto-mastoïdien ni diastasis incudo-stapédien.
+• Défaut de visualisation de la partie postérieure du tegmen tympani et du tegmen antri, sans ptose méningée ou méningo-encéphalique : déhiscence?","Study: Temporal Bone CT
+
+CLINICAL HISTORY:
+Assessment of left tympanic membrane perforation and right posterior sub-ligamentary retraction.
+
+Protocol:
+Spiral acquisition without injection focused on the petrous bones.
+
+Findings:
+
+Right Ear:
+
+Normal pneumatisation of the middle ear and mastoid air cells, including the oval and round windows.
+No abnormalities in the ossicular chain.
+No pre-stapedial hypodensity.
+Normal coverage of the superior semicircular canal.
+Integrity of the bony canal of the facial nerve.
+Integrity of the structures of the inner ear.
+
+Left Ear:
+
+Osteocondensation and mastoid hypopneumatisation (sclerotic appearance).
+Normal pneumatisation of the middle ear and mastoid air cells, including the oval and round windows.
+No abnormalities in the ossicular chain.
+No pre-stapedial hypodensity.
+Normal coverage of the superior semicircular canal.
+Non-visualization of the posterior part of the tegmen tympani and the tegmen antri, without meningeal or meningoencephalic prolapse: possible dehiscence?
+Integrity of the bony canal of the facial nerve.
+Integrity of the structures of the inner ear.
+Protrusion of the sigmoid sinus in the mastoid.
+High position of the jugular bulb.
+
+IMPRESSION:
+
+Right ear is intact.
+Left ear:
+- Signs of non-cholesteatomatous chronic otitis, without oto-mastoid filling or incudostapedial diastasis.
+- Non-visualization of the posterior part of the tegmen tympani and the tegmen antri, without meningeal or meningoencephalic prolapse: possible dehiscence?","H65.492,H72.92,H73.91"
+Fr,US,Abdomen Pelvis,"Indication: Bilan d’une insuffisance rénale aigue
+
+Résultats: 
+Rein droit: Axe bipolaire à 12.2cm. Pas de syndrome de masse. Bonne différenciation cortico-médullaire. Trophicité corticale normale. Pas de lithiase visible en échographie. Pas de dilatation des cavités pyélocalicielles.
+Rein gauche: Axe bipolaire à 11.7cm. Pas de syndrome de masse. Bonne différenciation cortico-médullaire. Trophicité corticale normale. Pas de lithiase visible en échographie. Pas de dilatation des cavités pyélocalicielles.
+Vessie quasi-vide. 
+Pas d’épanchement pelvien.
+Conclusion: Echographie rénale normale.","CLINICAL HISTORY: Assessment of acute renal failure
+
+Results:
+Right kidney: Bipolar axis measures 12.2 cm. No mass effect. Good corticomedullary differentiation. Normal cortical trophicity. No stones visible on ultrasound. No dilation of the pyelocaliceal cavities.
+Left kidney: Bipolar axis measures 11.7 cm. No mass effect. Good corticomedullary differentiation. Normal cortical trophicity. No stones visible on ultrasound. No dilation of the pyelocaliceal cavities.
+Bladder: Nearly empty.
+No pelvic effusion.
+IMPRESSION: Normal renal ultrasound.",N17.9
+Fr,US,Abdomen Pelvis,"Echographie rénale
+
+Indication: Bilan d’une pyélonéphrite gauche à risque de complication chez une femme de 45 ans suivie pour un diabète mal équilibré
+
+Résultats:
+Dilatation des cavités pyélocalicielles gauches avec un bassinet mesuré à 18mm en inter-labial. L’uretère est mal suivi en raison de la faible échogénéicité de la patiente. 
+Rein gauche à 13cm de diamètre.
+Trophicité corticale gauche conservée.
+Pas d’abcès.
+
+Rein droit normal, mesuré à 12cm de diamètre, sans dilatation des cavités pyélocalicielles.
+
+Conclusion: Dilatation des cavités pyélocalicielles gauches. L’uretère gauche n’est pas suivi: intérêt d’un scanner complémentaire. Rein droit normal.","Kidney Ultrasound
+
+CLINICAL HISTORY: Evaluation of a left pyelonephritis with complication risk in a 45-year-old woman with poorly controlled diabetes.
+
+Results:
+
+Left hydronephrosis with a pelvis measured at 18mm inter-labially. The ureter is poorly visualized due to the patient's low echogenicity.
+Left kidney measures 13 cm in diameter.
+Preserved left cortical trophicity.
+No abscess.
+
+Normal right kidney, measuring 12 cm in diameter, without dilation of the pyelocalyceal cavities.
+
+IMPRESSION: Left hydronephrosis. The left ureter is not visualized: further assessment with CT scan is recommended. Right kidney is normal.","N13.30,E13.8,N13.6,R94.4"
+Fr,MR,Pelvis,"IRM PROSTATIQUE 
+
+Indication
+Élévation du taux de PSA.
+
+Protocole
+Séquences axiales T2 et diffusion.
+
+Résultats
+Pas d'imagerie antérieure disponible pour comparaison.
+
+Volume prostatique estimé à 95 cc (50 x 70 x 52 mm).
+Protrusion modérée du lobe médian dans la vessie.
+Épaississement significatif des parois vésicales avec multiples petits diverticules.
+
+Zone périphérique :
+Quelques remaniements inflammatoires ne gênant pas l'interprétation.
+Restriction focale marquée de la diffusion latéro-lobaire moyen gauche (z10p) de 7 mm.
+Pas de signe d’extension extra-prostatique.
+
+Zone de transition :
+Pas de lésion significative.
+
+Par ailleurs :
+Stroma fibromusculaire antérieur fin et très hypointense en T2, sans restriction de diffusion.
+Aspect normal des vésicules séminales.
+Pas d'adénopathie pelvienne.
+Pas de lésion osseuse suspecte.
+
+
+Conclusion
+Lésion suspecte PI-RADS 4 en zone périphérique latéro-lobaire moyenne gauche.
+Hypertrophie prostatique (95 cc) avec signes de vessie de lutte.","PROSTATE MRI
+
+Clinical information
+Elevated PSA.
+
+Technique
+Axial T2 and DWI/ADC.
+
+Comparison
+None.
+
+Findings
+
+Size : 95 cubic cm (50 x 70 x 52 mm).
+Mild median lobe hypertrophy protruding into the urinary bladder.
+Diffuse bladder wall hypertrophy. Multiple small bladder diverticula.
+
+Peripheral zone :
+Slightly heterogeneous high signal.
+Left midgland posterolateral focal markedly hyperintense on high b-value and markedly hypointense on ADC, which does not abut the prostate margin.
+
+Transition zone :
+No significant abnormality.
+
+Other :
+Normal anterior fibromuscular stroma and seminal vesicles.
+No lymphadenopathy.
+No osseous metastases suggested.
+
+
+Impression
+High suspicion left peripheral zone lesion without extraprostatic extension.
+Prostatomegaly (95 cc) with bladder outlet obstruction. ","N40, D40.0, D32.3"
+Fr,MR,Abdomen Pelvis,"IRM RENALE
+
+Indication
+Caractérisation d'une masse rénale droite.
+
+Protocole
+Séquences axiales et coronale T2, axiale diffusion, après injection axiales T1 fat sat dynamique, T1 tardif et temps excréteur.
+
+Résultats
+
+Masse rénale de la convexité du pôle inférieur du rein droit de 47 x 38 mm pour 32 mm de hauteur, plurilobulé, hétérogène globalement iso-intense en T2 et en T1, avec restriction modérée de la diffusion, hypervascularisée avec lavage au temps tardif et composantes nécrotiques minoritaires.
+Cette masse vient au contact de la tige calicielle inférieure sans l'envahir.
+Veine rénale droite perméable.
+Artère rénale polaire inférieure droite.
+Pas d'adénomégalie rétropéritonéale.
+
+Formations liquidiennes rénales bilatérales infra et péricentimétriques d'allure banale.
+Rein gauche de taille et de morphologie normales, sans lésion tissulaire suspecte.
+Pas de lésion suspecte dans les voies urinaires.
+Intégrité des surrénales, du foie, du pancréas et de la rate.
+Pas de lésion osseuse suspecte sur le volume exploré.
+
+
+Conclusion
+Masse rénale droite hypervascularisée compatible avec un carcinome à cellules claires. ","Renal MRI Report
+Indication Characterization of a right renal mass.
+Protocol Axial and coronal T2 sequences, axial diffusion, post-contrast axial T1 fat-sat dynamic, late T1, and excretory phase.
+Findings
+A 47 x 38 mm mass on the convexity of the lower pole of the right kidney, with a height of 32 mm, appears multilobulated and heterogeneous. The mass is generally iso-intense on both T2 and T1 sequences, shows moderate diffusion restriction, is hypervascular with washout in the late phase, and contains minor necrotic components.
+The mass is in contact with but does not invade the lower caliceal stem.
+The right renal vein is patent.
+There is a right lower polar renal artery.
+No retroperitoneal lymphadenopathy.
+Bilateral renal cysts, infra- and pericentimetric, appear benign.
+The left kidney is of normal size and morphology, without any suspicious tissue lesions.
+No suspicious lesions in the urinary tract.
+The adrenal glands, liver, pancreas, and spleen are intact.
+No suspicious bone lesions within the explored volume.
+Conclusion A hypervascular right renal mass compatible with clear cell carcinoma.","C64.1, N28.1"
+Fr,MR,Pelvis,"IRM DYNAMIQUE PELVIPERINEALE
+
+Indication
+Bilan d'urgenturies. Antécédents d'hystérectomie en 2021 et de pose de bandelette TOT en 2016.
+
+Protocole
+Après balisage rectal et vaginale au gel d'échographie, séquences T2 dans les trois plans, sagittales en poussée progressive, puis trois plans T2 en poussée maximale.
+Séquence axiale T2 BFFE jusqu'aux hiles rénaux.
+
+Résultats
+
+Concernant l'examen dynamique :
+Cervicocystoptose de grade II avec partie inférieure de l'urètre restant fixé par le matériel prothétique et bascule à 90° postérieure de la partie supérieure de l'urètre.
+Fine dissection graisseuse de la cloison rectovaginale sans péritonéocèle.
+Absence de rectocèle.
+
+Par ailleurs :
+Stigmates d'hystérectomie.
+Pas de syndrome de masse pelvien.
+Pas d'épanchement liquidien pelvien.
+Pas d'adénomégalie sur le volume exploré.
+Pas de dilatation des cavités pyélocalicielles.
+Trophicité conservée des faisceaux du muscle releveur de l'anus.
+
+
+Conclusion
+Cervicocystoptose de grade II. ","MR DEFECOGRAPHY
+
+History
+Assessment for urinary urgency. History of hysterectomy in 2021 and TOT sling placement in 2016.
+
+Protocol
+After rectal and vaginal marking with ultrasound gel, T2 sequences in three planes, sagittal during progressive straining, followed by three-plane T2 sequences during maximal straining. Axial T2 BFFE sequence up to the renal hila.
+
+Results
+
+Regarding the dynamic examination:
+Grade II cervicocystoptosis with the lower part of the urethra remaining fixed by the prosthetic material and a 90° posterior tilt of the upper part of the urethra.
+Fine fatty dissection of the rectovaginal septum without peritoneocele.
+No rectocele.
+
+Other:
+Signs of hysterectomy.
+No pelvic mass syndrome.
+No pelvic fluid collection.
+No lymphadenopathy.
+No dilation of the pelvicalyceal system.
+Preserved trophicity of the levator ani muscle bundles.
+
+
+Impression
+Grade II cervicocystoptosis.","R39.15, N81.10, Z90.711"
+Fr,CT,Abdomen Pelvis,"SCANNER ABDOMINOPELVIEN
+
+Indication
+Bilan de vomissements avec altération de l’état général chez un homme de 25 ans.
+
+Protocole
+Acquisition après injection au temps veineux.
+
+Résultats
+Épaississement circonférentiel pariétal centimétrique de l'antre gastrique.
+Multiples ganglions infra et péricentimétriques cœliomésentériques, inter-aortico-caves et latéroaortiques gauches.
+Nodules tissulaires dans le grand omentum dont le plus volumineux mesure 14 x 9 mm en région périombilicale gauche.
+Lame d'épanchement péritonéal pelvien.
+Par ailleurs, pas d'anomalie rénale, hépatobiliaire, pancréatique ni splénique.
+Pas de lésion osseuse suspecte.
+
+Conclusion
+Aspect suspect de linite gastrique avec lésions de carcinose péritonéale.","Abdominopelvic CT Scan Report
+Indication Assessment of vomiting and general deterioration in a 25-year-old male.
+Protocol Post-contrast acquisition during the venous phase.
+Findings
+Centimetric circumferential wall thickening of the gastric antrum.
+Multiple infra- and pericentimetric lymph nodes in the celiac-mesenteric, interaortocaval, and left para-aortic regions.
+Tissue nodules in the greater omentum, the largest measuring 14 x 9 mm in the left peri-umbilical region.
+Thin layer of pelvic peritoneal effusion.
+No renal, hepatobiliary, pancreatic, or splenic abnormalities.
+No suspicious bone lesions.
+Conclusion Findings are suggestive of gastric linitis with peritoneal carcinomatosis.","R11.10, C16.3, C78.6"
+Fr,CT,Abdomen Pelvis,"UROSCANNER
+
+Indication
+Bilan d'une hématurie macroscopique. Cystoscopie réalisée il y a une semaine sans lésion retrouvée. Recherche de tumeur dans les voies excrétrices supérieures.
+
+Protocole
+Acquisitions sans puis après injection de produit de contraste, potentialisées par l’injection intraveineuse de furosémide, aux temps cortical, tubulaire et excréteur. On complète par une acquisition tardive en procubitus.
+
+Résultats
+
+Collection hydroaérique latérovésicale gauche pluriloculée de 13 x 4 cm pour 6 cm de hauteur.
+Suffusion gazeuse dans l'espace sous-péritonéal, dans le cordon spermatique gauche et dans l'espace propéritonéal.
+Pas de solution de continuité décelable de la paroi vésicale, ni de fuite extravésicale du produit de contraste au temps excréteur.
+
+Concernant les voies excrétrices urinaires :
+Sédiment hématique intravésical.
+Deux diverticules rétrovésicaux de 5 et 4 cm de large, avec collets de 6 et 8 mm.
+Lésion tissulaire rehaussée dans le fond du diverticule rétrovésicale droit mesurant 12 x 5 mm.
+Pas de lésion suspecte urétéro pyélocalicielle bilatérale, vésicale, ni rénale par ailleurs.
+Pas dilatation des cavités pyélocalicielles.
+
+Concernant le reste de l'examen :
+Pas d'adénomégalie pelvienne ni rétropéritonéale.
+Dysmorphie hépatique aux contours bosselés.
+Pas de voie dérivation veineuse porto-systémique significative.
+Microcalculs vésiculaires sans signe de complication.
+Reins de taille et morphologie normales sans lésion significative.
+Pas de lésion osseuse suspecte.
+
+
+Conclusion
+Collection hydroaérique latérovésicale gauche : complication de la cystoscopie récente ? 
+Urologue prévenu des constatations et patient hospitalisé.
+
+Lésion tissulaire nodulaire centimétrique dans un diverticule rétrovésical droit suspecte.","CT UROGRAM
+
+Indication
+Gross hematuria. Cystoscopy performed a week ago showed no lesions.
+
+Protocol
+Helical images pre and post IV contrast after IV furosemide, during the cortical, tubular, and excretory phases. Completed with a delayed acquisition in the prone position.
+
+
+Findings
+
+Multiloculated hydroaeric collection in the left lateral vesical region measuring 13 x 4 cm and 6 cm in height.
+Gas suffusion in the subperitoneal space, left spermatic cord, and properitoneal space.
+No detectable wall discontinuity of the bladder, nor extravesical leakage of contrast during the excretory phase.
+
+Regarding the urinary excretory pathways:
+Intravesical hematic sediment.
+Two retrovesical diverticula measuring 5 and 4 cm in width, with necks of 6 and 8 mm.
+Enhanced tissue lesion in the base of the right retrovesical diverticulum measuring 12 x 5 mm.
+No suspicious lesions in the ureteropyelocaliceal systems bilaterally, bladder, or kidneys.
+No dilation of the pelvicalyceal systems.
+
+Other findings:
+No pelvic or retroperitoneal lymphadenopathy.
+Dysmorphic liver with cirrhotic appearance.
+No porto-systemic venous shunt.
+Kidneys of normal size and morphology.
+Small gallstones without signs of complication.
+Kidneys of normal size and morphology without significant lesion.
+No suspicious bone lesions.
+
+
+Impression
+Left lateral vesical hydroaeric collection: complication of recent cystoscopy? Urologist informed of the findings and patient hospitalized.
+Suspected nodular tissue lesion in the right retrovesical diverticulum.","R31.0, C67.9, N32.3, C74.6"
+Fr,CT,Thorax Abdomen Pelvis,"SCANNER THORACO-ABDOMINO-PELVIEN
+
+Indication
+État de choc hémodynamique. Suspicion de dissection aortique.
+
+Protocole
+Acquisitions sans injection à l'étage thoracique, puis après injection au temps artériel sur les étages thoraco-abdomino-pelvien, puis au temps veineux sur l'étage abdomino-pelvien.
+
+Résultats
+
+Thorax :
+Défaut de rehaussement sous-endocardique des parois latérales et inférieures du ventricule gauche, ainsi que des piliers antérieur et postérieur de la valve mitrale, pouvant témoigner d'un infarctus.
+Pas de signe de syndrome aortique aigu.
+Pas d'embolie pulmonaire jusqu'au niveau segmentaire.
+Épanchements pleuraux bilatéraux de moyenne abondance prédominant à droite.
+Atélectasie partielle bibasale au contact.
+Quelques réticulations interlobulaires biapicales pouvant témoigner d'une surcharge vasculaire.
+Calcifications coronariennes tritronculaires.
+Pas d'épanchement péricardique.
+
+Abdomen et pelvis :
+Pneumopéritoine de moyenne abondance prédominant en position sus-mésocolique.
+Épanchement liquidien péritonéal de moyenne abondance périhépatique et pelvien.
+Prise de contraste des feuillets péritonéaux dans le pelvis et de la capsule hépatique, évoquant des signes de péritonite.
+Rehaussement satisfaisant des parois des anses intestinales.
+Pas de solution de continuité gastroduodénale décelable.
+Œdème sous-muqueux circonférentiel vésiculaire d'allure réactionnelle avec deux macrocalculs.
+
+Par ailleurs :
+Encoches cortico-rénales bilatérales d'allure séquellaire.
+Prise de contraste intense des surrénales au temps artériel cadrant avec l’état de choc.
+Pas de lésion suspecte du foie, de la rate, ni du pancréas.
+Intégrité du cæcum, de la dernière anse iléale et de l'appendice.
+Pas de lésion osseuse suspecte sur le volume exploré.
+
+
+Conclusion
+Pas d'argument pour un syndrome aortique aigu.
+Défaut de rehaussement sous-endocardique du ventricule gauche : infarctus ? 
+Signes d'œdème pulmonaire débutant avec épanchements pleuraux bilatéraux de moyenne abondance.
+
+Pneumopéritoine prédominant en position sus-mésocolique : perforation d’ulcère gastroduodénale ?","CT CHEST, ABDOMEN and PELVIS
+
+Clinical impression
+Hemodynamic shock. Suspected aortic dissection.
+
+Protocol
+Helical images without contrast on the thorax, followed by post-IV contrast images during the arterial phase from the lung apices to the pubic symphysis, and during the venous phase from the lung bases to the pubic symphysis.
+
+Results
+
+Thorax:
+Subendocardial enhancement defect of the lateral and inferior walls of the left ventricle which may indicate an infarction.
+No signs of acute aortic syndrome.
+No pulmonary embolism.
+Moderate bilateral pleural effusions, predominantly on the right.
+Biapical interlobular reticulations possibly indicating vascular overload.
+Coronary calcifications. No pericardial effusion.
+
+Abdomen and pelvis:
+Moderate pneumoperitoneum predominantly supramesocolic.
+Moderate amount of peritoneal fluid effusion around the liver and in the pelvis.
+Enhancement of the peritoneal layers in the pelvis and hepatic capsule, suggesting peritonitis.
+Satisfactory enhancement of the intestinal walls.
+No detectable gastroduodenal wall discontinuity.
+Circumferential submucosal gallbladder edema with a reactive appearance and two large gallstones.
+
+Additionally:
+Bilateral cortical renal notches with a reactive appearance.
+Intense adrenal contrast enhancement during the arterial phase consistent with the state of shock.
+No suspicious lesions in the liver, spleen, or pancreas.
+Integrity of the cecum, terminal ileum, and appendix.
+No suspicious bone lesions in the explored volume.
+
+Impression
+No evidence of acute aortic syndrome.
+Subendocardial enhancement defect of the left ventricle: infarction?
+Signs of early pulmonary edema with moderate bilateral pleural effusions.
+Supramesocolic peritoneum: gastroduodenal ulcer perforation?","I21.4, J81.0, J91.8, K27.5, K65.0, k80.2"
+Fr,CT,Brain,"SCANNER CEREBRAL
+
+Indication
+Traumatisme crânien balistique dans un contexte de tentative d'autolyse par arme à plomb avec orifice d'entrée temporal gauche sans orifice de sortie.
+
+Protocole
+Acquisition sans injection.
+
+Résultats
+
+Fracture temporale gauche comminutive avec multiples corps étrangers métalliques millimétriques de part et d'autre.
+Contusion hémorragique intraparenchymateuse frontale moyenne gauche en regard de la fracture mesurant environ 2 cm.
+Hématome sous-dural de la convexité gauche mesuré jusqu'à 9 mm d'épaisseur.
+Hématome extra-axiale frontal supérieur droit de 9 mm d'épaisseur.
+Minime hémorragie intraventriculaire gauche.
+
+Engagement sous-falcoriel avec déviation de la ligne médiane vers la droite de 12 mm.
+Débord temporal interne gauche infracentimétrique.
+Pas d'engagement des amygdales cérébelleuses.
+Minime hydrocéphalie d'exclusion avec trop bonne visibilité de la corne temporale droite.
+
+
+Conclusion
+Fracture temporale gauche comminutive, avec contusion œdématohémorragique adjacente et hématome sous-dural de la convexité, responsable d'un engagement sous-falcoriel et d'un débord temporal interne, avec hydrocéphalie d’exclusion débutante.
+
+Intérêt d'un avis neurochirurgical en urgence. Service demandeur prévenu des constatations.","CEREBRAL CT
+
+Clinical information
+Ballistic cranial trauma in the context of a suicide attempt by pellet gun with an entry wound in the left temporal region and no exit wound.
+
+Protocol
+Helical images without contrast.
+
+
+Findings
+
+Comminuted left temporal fracture with multiple millimetric metallic foreign bodies on both sides.
+Left frontal intraparenchymal hemorrhagic contusion, adjacent to the fracture, measuring 2 cm.
+Left convexity subdural hematoma measuring up to 9 mm in thickness.
+Right superior frontal extra-axial hematoma measuring 9 mm in thickness.
+Minimal left intraventricular hemorrhage.
+
+Subfalcine herniation with a 12 mm rightward shift of the midline.
+Slight protrusion of the left internal temporal lobe, less than 1 cm.
+No tonsillar herniation.
+Mild obstructive hydrocephalus with increased visibility of the right temporal horn.
+
+Impression
+Comminuted left temporal fracture with adjacent cerebral contusion and subdural hematoma, causing subfalcine herniation and internal temporal lobe protrusion, with early obstructive hydrocephalus.
+
+Urgent neurosurgical consultation is recommended. The requesting department has been informed of the findings.","X72.XXXA, S02.91, S06.31, S06.51, G91.1, S06.A1XA"
+Fr,RX,Breasts,"MAMMOGRAPHIE BILATERALE
+
+Indication
+Dépistage organisé chez une patiente sans antécédent familial, ni de traitement de substitution. Examen clinique sans particularité.
+
+Protocole
+Clichés de face et oblique externe.
+Dose glandulaire moyenne : 2,6 mGy à droite et 1,9 mGy à gauche.
+
+Résultats
+Comparaison à l’examen réalisé il y a 2 ans.
+
+Densité mammaire de type C.
+Stabilité de quelques macro et microcalcifications non regroupées en foyer, rondes, régulières, d’allure dystrophiques. 
+Sur le cliché oblique droit, discrète asymétrie de densité profonde rétroaréolaire d'allure glandulaire, confirmée par un cliché en compression localisée qui retrouve un bon étalement en faveur de tissu fibroglandulaire normal.
+Pas d’opacité nodulo-stellaire, de distorsion architecturale ni de foyer de microcalcifications suspect par ailleurs.
+
+Conclusion
+Examen classé BI-RADS 2 bilatéral.
+
+Prochain bilan sénologique dans deux ans sauf événement clinique intercurrent.","BILATERAL MAMMOGRAPHY
+
+Clinical information
+Organized screening in a menopausal woman with no family history or hormone replacement therapy. Clinical examination unremarkable.
+
+Comparison : examn performed two years ago.
+
+Views:
+Bilateral CC and MLO.
+
+Breast Composition: 
+Type C (heterogeneously dense which may obscure detection of small masses).
+
+
+Findings
+
+Stability of a few scattered macro- and microcalcifications, which are round, regular, and appear dystrophic.
+
+Right breast: 
+Slight asymmetry of deep retroareolar density that appears glandular, confirmed by a localized compression view showing good spreading, indicating normal fibroglandular tissue.
+No evidence of mass, architectural distortion, suspicious microcalcification, skin thickening or nipple retraction.
+
+Left breast: 
+No evidence of mass, architectural distortion, suspicious micro calcification, skin thickening or nipple retraction.
+
+Impression
+BIRAD 2 benign findings, recommend screening mammogram in two years.","M92.1, M92.0"
+Fr,CT,Abdomen Pelvis,"SCANNER ABDOMINO-PELVIEN
+
+ 
+INDICATION :
+Patient présentant un syndrome de Down avec altération de l'état général.
+Examen clinique difficile mais possible douleurs abdominales avec syndrome inflammatoire
+biologique majeur.
+ 
+PROTOCOLE :
+Acquisition hélicoïdale abdomino-pelvienne sans puis après injection de produit de contraste
+au temps portal.
+ 
+RESULTAT : examen de qualité sous-optimale en raison d'une acquisition réalisée les bras
+le long du corps.
+ 
+Foie de taille de morphologie normale.
+Perméabilité des vaisseaux afférent et efférent hépatique.
+Pas de dilatation des voies biliaires.
+Lithiase vésiculaire déclive sans argument pour une surinfection.
+Intégrité des surrénales, de la rate, du pancréas et des reins.
+ 
+Pas de distension des anses grêles ou du cadre colique.
+Pas d'infiltration de la graisse péri-colique et l'épaississement pariétal décelé.
+Stase stercorale rectale.
+Vessie en forte réplétion avec un calcul d'environ 500 cc.
+ 
+ 
+Sur les coupes thoraciques basses :
+Lame d'épanchement péricardique déclive mesuré au maximum à 7 mm au niveau de la
+paroi libre du VD.
+Pas d'épanchement pleural. Pas de foyer de condensation des bases.
+ 
+Sur le plan osseux :
+Lyse isthmique bilatérale de L4 à responsable d'un antélisthésis de grade I
+ 
+CONCLUSION :
+Pas de foyer infectieux profond décelée scanographiquement aux étages abdomino-
+pelviens.","bdominopelvic CT Scan Report
+
+Indication:
+Patient with Down syndrome experiencing general deterioration. Clinical examination is challenging, but possible abdominal pain with significant biological inflammatory syndrome is suspected.
+
+Protocol:
+Helical abdominopelvic acquisition without and then with contrast injection during the portal phase.
+
+Findings:
+The examination quality is suboptimal due to the arms being positioned alongside the body during acquisition.
+Liver: Normal size and morphology.
+Hepatic Vessels: Patent afferent and efferent hepatic vessels.
+Biliary Ducts: No dilation.
+Gallbladder: Gravity-dependent gallstones without signs of infection.
+Adrenal Glands, Spleen, Pancreas, and Kidneys: Intact.
+
+Intestines: No distention of the small bowel or colon. No infiltration of pericolic fat and no detected wall thickening.
+Rectum: Fecal stasis.
+Bladder: Highly distended with a calculus approximately 500 cc.
+
+Thoracic Findings (lower slices):
+Pericardium: Small pericardial effusion, measuring up to 7 mm at the free wall of the right ventricle.
+Pleura: No pleural effusion.
+Lung Bases: No consolidation.
+
+Bone Findings:
+Spine: Bilateral isthmic lysis of L4, resulting in grade I anterolisthesis.
+
+Conclusion:
+No deep infectious focus detected in the abdominopelvic regions on the scan.","Q90.9, R10.9, K80.20, I31.39, M43.16"
+Fr,CT,Abdomen Pelvis,"SCANNER ABDOMINO-PELVIEN
+
+ 
+INDICATION :
+Suspicion d'appendicite.
+ 
+PROTOCOLE :
+Acquisition sans puis après injection.
+ 
+RESULTAT :
+Collections hydro-aériques plurilobulées en fosse iliaque droite étendue en hypogastre et
+pelvien mesuré à 14 x 10 cm en axial.
+Bulles de pneumopéritoine cloisonnés en regard de ces collections en rétro-omibilical. Pas
+de pneumopéritoine libre.
+
+Ces collections semblent communiquer avec le caecum, en faveur d'une origine
+appendiculaire.
+ 
+Pas d'anomalie significative du caecum ou de la dernière anse.
+ 
+Lithiases vésiculaires sans signe de complication.
+Stéatose focale du segment IV hépatique.
+Plusieurs lésions hypodenses spléniques infracentimétriques non caractérisables.
+ 
+CONCLUSION :
+Collections hydro-aériques plurilobulées de 14cm de grand axe en fosse iliaque droite
+étendue en hypogastre et pelvien, avec bulles de pneumopéritoine cloisonnées en regard,
+en lien en première hypothèse avec une appendicite aigue compliquée d'abcès et de
+perforation.","ABDOMINO-PELVIC CT SCAN
+
+INDICATION:
+Suspicion of appendicitis.
+
+PROTOCOL:
+Acquisition without and then after contrast injection.
+
+RESULT:
+Multilobulated fluid and air collections in the right iliac fossa extending to the hypogastric and pelvic regions, measuring 14 x 10 cm in axial view.
+Localized pneumoperitoneum adjacent to these collections in the retro-umbilical area. No free pneumoperitoneum.
+
+These collections seem to communicate with the cecum, suggesting an appendiceal origin.
+
+No significant abnormalities of the cecum or the terminal ileum.
+
+Gallstones without signs of complication.
+Focal steatosis of hepatic segment IV.
+Several subcentimetric hypodense splenic lesions that are non-characterizable.
+
+CONCLUSION:
+Multilobulated fluid and air collections measuring 14 cm in the longest axis in the right iliac fossa extending to the hypogastric and pelvic regions, with localized pneumoperitoneum adjacent, likely associated with acute complicated appendicitis with abscess and perforation.","K35.211, K76.0, D73.9"
+Fr,CT,Thorax,"ANGIOSCANNER THORACIQUE
+
+ 
+INDICATION :
+Douleurs de l'hypocondre droit, basi-thoracique droite.
+Apparition d'une dyspnée dans un contexte de de cardiopathie sur insuffisance mitrale et
+tricuspide.
+ 
+PROTOCOLE :
+Acquisition hélicoïdale après injection de produit de contraste au temps artériel.
+ 
+RESULTAT :
+Pas d'embolie pulmonaire décelée jusqu'en sous-segmentaire.
+Cardiomégalie.
+Epaississement des lignes septales bi-apicales et condensation péri-broncho-vasculaire
+hilaire bilatéral en faveur d'une surcharge vasculaire.
+ 
+Épanchement pleural bilatéral de faible abondance associé.
+Plusieurs ganglions médiastino-hilaires hypertrophiés.
+Calcifications coronariennes tritronculaires.
+Calcifications également au sein du VG.
+ 
+Pas de lésion osseuse lytique ou condensante suspecte.
+ 
+CONCLUSION :
+Épanchement pleural bilatéral de faible abondance, épaississement des lignes septales bi-
+apicales et condensation péri-broncho-vasculaire hilaire bilatéral en faveur d'une surcharge
+vasculaire (OAP).
+Pas d'embolie pulmonaire décelée jusqu'en sous-segmentaire","THORACIC CT ANGIOGRAPHY
+
+INDICATION:
+Right hypochondrial and right basal thoracic pain. Onset of dyspnea in the context of cardiopathy with mitral and tricuspid insufficiency.
+
+PROTOCOL:
+Helical acquisition after contrast agent injection at the arterial phase.
+
+RESULT:
+No pulmonary embolism detected up to the subsegmental level.
+Cardiomegaly.
+Thickening of the bi-apical septal lines and peri-bronchovascular consolidation at the bilateral hilar regions, suggestive of vascular congestion.
+
+Low-volume bilateral pleural effusion observed.
+Several enlarged mediastinal-hilar lymph nodes.
+Trivessel coronary calcifications.
+Calcifications also present in the left ventricle.
+
+No suspicious lytic or sclerotic bone lesions.
+
+CONCLUSION:
+Low-volume bilateral pleural effusion, thickening of the bi-apical septal lines, and peri-bronchovascular consolidation at the bilateral hilar regions, suggestive of vascular congestion (pulmonary edema). No pulmonary embolism detected up to the subsegmental level.","R10.10, R07.9, R06.00, I34.0, I36.1, I51.7, J81.0, R59.9, J90, I25.84"
+Fr,CT,Brain,"SCANNER CÉRÉBRAL
+
+ 
+INDICATION :
+Chute. Recherche de saignement intra crânien.
+ 
+PROTOCOLE :
+
+Acquisition hélicoïdale. Examen réalisé sans injection.
+ 
+RESULTAT :
+Absence d’hémorragie intra ou péri-cérébrale.
+Aspect normal des structures de la fosse postérieure.
+Hypodensités de la substance blanche périventriculaire en faveur dune leucopathie.
+Dilatation globale des ventricules cérébraux et des sillons en faveur dune atrophie cortico
+sous corticale.
+Absence d’anomalie péri-cérébrale.
+Pas de fracture.
+ 
+CONCLUSION :
+Absence d’hémorragie intra ou péri-cérébrale.","BRAIN CT SCAN
+
+INDICATION:
+Fall. Investigation for intracranial bleeding.
+
+PROTOCOL:
+Helical acquisition. Examination performed without contrast injection.
+
+RESULT:
+No intra- or peri-cerebral hemorrhage.
+Normal appearance of the posterior fossa structures.
+Periventricular white matter hypodensities suggestive of leukoaraiosis.
+Global dilation of cerebral ventricles and sulci, suggestive of cortico-subcortical atrophy.
+No peri-cerebral abnormalities.
+No fractures.
+
+CONCLUSION:
+No intra- or peri-cerebral hemorrhage detected.",I67.9
+Fr,US,Abdomen Pelvis,"ECHOGRAPHIE ABDOMINO-PELVIENNE
+
+ 
+INDICATION :
+Douleurs abdominales paroxystiques depuis 3j.
+ 
+RESULTATS :
+Foie de taille normale, de contours réguliers et d’échostructure homogène.
+Pas de lésion focale intra-hépatique décelée.
+Bonne perméabilité des veines sus hépatiques et du tronc porte.
+Vésicule biliaire de taille normale, à parois fines, à contenu alithiasique.
+Absence de dilatation des voies biliaires intra ou extra-hépatiques.
+ 
+Pancréas visualisé dans sa portion céphalo-corporéale, d’échostructure homogène.
+Rate de taille normale et d’échostructure homogène.
+ 
+Reins symétriques de taille normale, présentant une bonne différenciation parenchymo-
+sinusale, sans dilatation des cavités pyélo-calicielles, sans masse ou calcul décelé.
+Vessie en semi réplétion à contenu anéchogène.
+ 
+Lame d'épanchement pelvien.
+ 
+Appendice non vu. Pas de douleurs au passage de la sonde.
+ 
+Ovaire droit et gauche de taille et de morphologie normales.
+
+ 
+CONCLUSION :
+Lame d'épanchement pelvien.
+Appendice non vu.
+Ovaire droit et gauche de taille et de morphologie normales.","ABDOMINO-PELVIC ULTRASOUND
+
+INDICATION:
+Paroxysmal abdominal pain for 3 days.
+
+RESULTS:
+Liver is of normal size, with regular contours and homogeneous echotexture.
+No focal intrahepatic lesions detected.
+Good patency of the hepatic veins and the portal vein trunk.
+Gallbladder is of normal size, with thin walls and no stones in the content.
+No dilatation of the intrahepatic or extrahepatic bile ducts.
+
+Pancreas visualized in its head and body portions, with homogeneous echotexture.
+Spleen is of normal size and homogeneous echotexture.
+
+Kidneys are symmetrical and of normal size, with good parenchymal-sinus differentiation, no dilatation of the pyelocaliceal cavities, and no masses or stones detected.
+Bladder is partially filled with anechoic content.
+
+Thin layer of pelvic effusion.
+
+Appendix not seen. No pain upon probe passage.
+
+Right and left ovaries are of normal size and morphology.
+
+CONCLUSION:
+Thin layer of pelvic effusion.
+Appendix not seen.
+Right and left ovaries are of normal size and morphology.","R10.9, M25.48"
+Fr,US,Abdomen Pelvis,"ECHOGRAPHIE ABDOMINO-PELVIENNE
+
+ 
+INDICATION :
+Douleurs épigastriques et vomissements et perturbation du bilan hépatique à type de
+cytolyse.
+Antécédent de cholécystectomie.
+ 
+RESULTAT :
+Foie de taille limite, aux contours réguliers. Flèche hépatique mesurée à 16 cm.
+Parenchyme hépatique d'échogénicité normale, sans lésion focale suspecte.
+Perméabilité du tronc porte et des veines sus-hépatiques.
+Statut post-cholécystectomie.
+Trop bonne visibilité secondaire de la voie biliaire principale, mesurée jusqu'à 10 mm, suivie
+jusqu'à la papille sans obstacle décelé.
+Pas de dilatation des voies biliaires intrahépatiques.
+ 
+Intégrité de la tête du corps du pancréas.
+Rate de taille normale, homogène.
+ 
+
+Reins de taille normale, avec un diamètre bipolaire de 10 cm à droite comme à gauche.
+Pas dilatation des cavités pyélocalicielles.
+Vessie en réplétion, à parois fines.
+ 
+Pas d'épanchement intrapéritonéal.
+ 
+CONCLUSION :
+Pas de dilatation des voies biliaires intrahépatiques.","ABDOMINO-PELVIC ULTRASOUND
+
+INDICATION:
+Epigastric pain, vomiting, and abnormal liver function tests indicating cytolysis. History of cholecystectomy.
+
+RESULTS:
+Liver is at the upper limit of normal size, with regular contours. Hepatic span measured at 16 cm.
+Liver parenchyma with normal echogenicity, no suspicious focal lesions.
+Patency of the portal vein and hepatic veins.
+Post-cholecystectomy status.
+Increased visibility of the common bile duct, measured up to 10 mm, followed to the papilla without detected obstruction.
+No dilatation of intrahepatic bile ducts.
+
+Head and body of the pancreas intact.
+Spleen is normal in size and homogeneous.
+
+Kidneys are normal in size, with a bipolar diameter of 10 cm on both sides.
+No dilatation of the pyelocaliceal cavities.
+Bladder is filled, with thin walls.
+
+No intraperitoneal effusion detected.
+
+CONCLUSION:
+No dilatation of intrahepatic bile ducts.","R10.13, Z90.49"
+Fr,US,Neck,"ECHOGRAPHIE CERVICALE
+
+ 
+INDICATION :
+Bilan d'une tuméfaction sous-mandibulaire droite.
+ 
+RESULTAT :
+La tuméfaction palpée correspond à une formation nodulaire sous-mandibulaire droite à contours irréguliers,
+franchement hypo-échogène, mesurant 27x18 mm, suspecte.
+ 
+Elle apparaît hyperhémiée en mode Doppler.
+Pas de microcalcifications.
+ 
+Il semble exister un liseré graisseux entre cette formation et la glande sous-mandibulaire
+droite, en faveur d'une origine non salivaire : adénomégalie ?
+ 
+Compression du canal de Wharton droit et dilatation des canaux salivaires intraglandulaires
+sous-mandibulaires.
+ 
+Par ailleurs, pas d'autre adénomégalie jugulo-carotidienne ou sous-mandibulaire.
+ 
+CONCLUSION :
+Formation nodulaire d'allure suspecte sous-mandibulaire droite correspondant
+vraisemblablement à une adénomégalie.
+ 
+Intérêt d'un avis ORL pour éventuel prélèvement.
+ 
+Médecin demandeur prévenu.","CERVICAL ULTRASOUND
+
+INDICATION:
+Evaluation of a right submandibular mass.
+
+RESULTS:
+The palpated mass corresponds to a right submandibular nodular formation with irregular contours, markedly hypoechoic, measuring 27x18 mm, and appears suspicious.
+
+It shows increased blood flow on Doppler mode.
+No microcalcifications are observed.
+
+A fatty plane seems to exist between this formation and the right submandibular gland, suggesting a non-salivary origin: possibly lymphadenopathy?
+
+Compression of the right Wharton's duct and dilation of the intraglandular submandibular salivary ducts are noted.
+
+No other jugulo-carotid or submandibular lymphadenopathy observed.
+
+CONCLUSION:
+Suspicious-appearing nodular formation in the right submandibular region likely corresponding to lymphadenopathy.
+
+Recommendation for an ENT specialist consultation for a possible biopsy.
+
+The referring physician has been notified.",R22.1
+Fr,US,Neck,"ECHOGRAPHIE DE LA THYROÏDE
+
+ 
+INDICATION :
+Bilan d'une hypothyroïdie survenue au cours d'un traitement par immunothérapie pour CHC.
+ 
+RESULTAT :
+Isthme mesuré à 2 mm.
+Lobe droit mesuré à 46x21x19 mm, soit un volume de 9,6 cc.
+Lobe gauche mesuré à 36x17x14 mm, soit un volume de 4,6 cc.
+ 
+Parenchyme thyroïdien hétérogène, globalement hypo-échogène, avec perte du gradient
+musculo-parenchymateux.
+ 
+Pas d'hyperhémie en mode Doppler.
+ 
+Pas de nodule.
+
+ 
+Pas d'adénomégalie jugulo-carotidienne ou sous-mandibulaire.
+ 
+CONCLUSION :
+Pas de goitre.
+Pas de nodule thyroïdien suspect.
+Aspect compatible avec des séquelles de thyroïdite.","THYROID ULTRASOUND
+
+INDICATION:
+Evaluation of hypothyroidism during immunotherapy treatment for hepatocellular carcinoma (HCC).
+
+RESULTS:
+Isthmus measured at 2 mm.
+Right lobe measured at 46x21x19 mm, with a volume of 9.6 cc.
+Left lobe measured at 36x17x14 mm, with a volume of 4.6 cc.
+
+Thyroid parenchyma is heterogeneous, overall hypoechoic, with loss of the muscle-parenchymal gradient.
+
+No hyperemia observed on Doppler mode.
+
+No nodules detected.
+
+No jugulo-carotid or submandibular lymphadenopathy observed.
+
+CONCLUSION:
+No goiter.
+No suspicious thyroid nodules.
+Findings are compatible with sequelae of thyroiditis.",E06.9
+Fr,US,Abdomen Pelvis,"ECHOGRAPHIE ABDOMINO-PELVIENNE
+
+ 
+INDICATION :
+Douleurs en fosse iliaque gauche irradiantes vers la région pelvienne, résolues.
+ 
+RESULTAT :
+Foie homogène de taille normale et de contours réguliers, sans lésion focale décelée.
+Statut post cholécystectomie. Pas de dilatation des voies biliaires intra et extrahépatiques.
+Rétropéritoine non dégagé de part l'interposition des gaz digestifs.
+Les reins sont de morphologie normale. Les cavités excrétrices ne sont pas dilatées.
+Rate homogène, de taille normale.
+Pas de liquide libre intra-abdominal.
+ 
+Vessie en réplétion partielle durant l'examen, de contenu anéchogène.
+Utérus de taille normale.
+Ovaires de taille de morphologie normale. Formation kystique annexielle gauche de 35 mm.
+Cul-de-sac de Douglas libre.
+ 
+CONCLUSION :
+Pas de dilatation des cavités excrétrices.
+Formation kystique annexielle gauche de 35 mm. Intérêt d'un avis gynécologique et
+d'un contrôle échographique dans 3 mois.","ABDOMINO-PELVIC ULTRASOUND
+
+INDICATION:
+Pain in the left iliac fossa radiating to the pelvic region, resolved.
+
+RESULTS:
+Liver is homogeneous, of normal size and regular contours, with no focal lesions detected.
+Post-cholecystectomy status. No dilatation of intrahepatic and extrahepatic bile ducts.
+Retroperitoneum not visualized due to interposition of digestive gases.
+Kidneys have a normal morphology. Excretory cavities are not dilated.
+Spleen is homogeneous and of normal size.
+No free intra-abdominal fluid.
+
+Bladder is partially filled during the examination, with anechoic content.
+Uterus is of normal size.
+Ovaries are of normal size and morphology. A left adnexal cystic formation measuring 35 mm is noted.
+Cul-de-sac of Douglas is free.
+
+CONCLUSION:
+No dilatation of the excretory cavities.
+Left adnexal cystic formation of 35 mm. A gynecological consultation and follow-up ultrasound in 3 months are recommended.","M54.59, Z90.49, N83.201"
+Fr,MR,Foot,"IRM DU PIED GAUCHE
+
+ 
+INDICATION :
+Suspicion d'ostéite du pied sur plaie du 4ème espace intercapito-métatarsien.
+ 
+PROTOCOLE :
+Séquences axiales et sagittales T1, DP Dixon et T1 Dixon après injection de gadolinium.
+ 
+RESULTAT :
+Hypersignal T1, discret hypersignal T2 avec prise de contraste ostéomédullaire de la
+phalange proximale du 4ème rayon.
+Discrète anomalie de signal également de la tête du 4ème métatarsien en regard.
+Ces anomalies de signal sont situés en regard de l'appui et décrite.
+ 
+Pas d'épanchement intra-articulaire significatif.
+Pas d'autre anomalie de signal ostéo-médullaire.
+ 
+CONCLUSION :
+Aspect IRM compatible avec une ostéite de la phalange proximale du 4ème rayon.","MRI OF THE LEFT FOOT
+
+INDICATION:
+Suspicion of osteitis of the foot related to a wound in the 4th intercapitometatarsal space.
+
+PROTOCOL:
+Axial and sagittal sequences T1, DP Dixon, and T1 Dixon after gadolinium injection.
+
+RESULTS:
+Hyperintense signal on T1, slight hyperintense signal on T2 with osteomedullary contrast enhancement of the proximal phalanx of the 4th ray.
+Slight signal anomaly also noted at the head of the 4th metatarsal in the corresponding area.
+These signal anomalies are located at the site of pressure and described as such.
+
+No significant intra-articular effusion.
+No other osteomedullary signal anomalies.
+
+CONCLUSION:
+MRI findings compatible with osteitis of the proximal phalanx of the 4th ray.",M86.8X7
+Fr,MR,Spine,"IRM DU RACHIS CERVICAL
+
+ 
+INDICATION :
+Bilan de névralgie cervico-brachiale droite.
+ 
+PROTOCOLE :
+Séquences sagittale T1, T2 STIR et 3D T2.
+ 
+RESULTAT :
+Respect de hauteur et de lalignement des corps vertébraux.
+Pas danomalie décelée de la charnière cervico-occipitale.
+Canal cervical légèrement étroit de façon constitutionnelle.
+Pas de lésion de remplacement médullaire suspecte.
+ 
+Absence de rétrécissement canalaire secondaire significatif.
+Remaniements unco-discarthrosiques débutants en C3-C4, C4-C5, C5-C6 responsables de
+rétrécissements foraminaux gauches modérés.
+Absence de rétrécissement foraminal droit significatif.
+ 
+CONCLUSION :
+Absence de rétrécissement foraminal ou canalaire significatif notamment à droite.
+Pas de conflit disco-radiculaire.","CERVICAL SPINE MRI
+
+INDICATION:
+Evaluation of right cervicobrachial neuralgia.
+
+PROTOCOL:
+Sagittal sequences T1, T2 STIR, and 3D T2.
+
+RESULTS:
+Preservation of height and alignment of the vertebral bodies.
+No abnormalities detected at the cervico-occipital junction.
+Slightly narrow cervical canal constitutionally.
+No suspicious medullary replacement lesions.
+
+No significant secondary canal stenosis.
+Early uncovertebral and disc arthrosis changes at C3-C4, C4-C5, and C5-C6 responsible for moderate left foraminal narrowing.
+No significant right foraminal narrowing.
+
+CONCLUSION:
+No significant foraminal or canal stenosis, particularly on the right.
+No disc-radicular conflict.","M47.812, M53.1"
