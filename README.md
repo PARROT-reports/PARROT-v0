@@ -103,25 +103,26 @@ Here is a template if you wish to save the file as a table (recommended).
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-FRENCH:
-Bastien Le Guellec (Lille, France)\
-Alexandre Lefevre (Lille, France)
+Actively recieving reports...
 
-## Leaderboard
+## Leaderboard 07/30/2024 update
 
 | Rank | Name          | Country       | Number of Valid Reports |Number of Valid ICD 10 Codes |
 |------|---------------|---------------|-------------------------|-|
-| 1    | Bastien Le Guellec     | France            | 31                      |40|
-| 2    | Alexandre Lefevre    | France        | 9                      |0|
-| 3    | Jane Doe | UK            | 0                      | 0|
+| 1    | Shuhang Zhang | China            | 50                    | 50|
+| 1    | Wang Weilang | China            | 50                    | 50|
+| 4    | Bastien Le Guellec     | France            | 31                      |80|
+| 5    | Michail Konstas    | Greece        | 25                      |25|
+| 3    | Thibault Agripnidis | France            | 50                    | 0|
+
 
 Objective: 100 annotated reports in 5 languages
 |Language|Number|Progress|
 |-|-|-|
-|French| 40| 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️|
-|Language 2| | ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
-|Language 3| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
-|Language 4| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Chinese| 100 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
+|French| 90 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️|
+|Greek| 25 |🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Italian| 20 |🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 |Language 5| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
 <!-- FEW RULES FOR REPORTS -->
