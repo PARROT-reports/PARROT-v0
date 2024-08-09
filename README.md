@@ -105,7 +105,7 @@ Here is a template if you wish to save the file as a table (recommended).
 
 Actively recieving reports...
 
-## Leaderboard 07/30/2024 update
+## Leaderboard 08/09/2024 update
 
 | Rank | Name          | Country       | Number of Valid Reports |Number of Valid ICD 10 Codes |
 |------|---------------|---------------|-------------------------|-|
