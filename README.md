@@ -111,9 +111,9 @@ Actively recieving reports...
 |------|---------------|---------------|-------------------------|-|
 | 1    | Shuhang Zhang | China            | 50                    | 50|
 | 1    | Wang Weilang | China            | 50                    | 50|
-| 4    | Bastien Le Guellec     | France            | 31                      |80|
-| 5    | Michail Klontzas    | Greece        | 25                      |25|
-| 3    | Thibault Agripnidis | France            | 50                    | 0|
+| 3    | Bastien Le Guellec     | France            | 31                      |80|
+| 4    | Michail Klontzas    | Greece        | 25                      |25|
+| 5    | Thibault Agripnidis | France            | 50                    | 0|
 
 
 Objective: 100 annotated reports in 5 languages
