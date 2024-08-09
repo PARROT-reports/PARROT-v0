@@ -112,7 +112,7 @@ Actively recieving reports...
 | 1    | Shuhang Zhang | China            | 50                    | 50|
 | 1    | Wang Weilang | China            | 50                    | 50|
 | 4    | Bastien Le Guellec     | France            | 31                      |80|
-| 5    | Michail Konstas    | Greece        | 25                      |25|
+| 5    | Michail Klontzas    | Greece        | 25                      |25|
 | 3    | Thibault Agripnidis | France            | 50                    | 0|
 
 
@@ -121,9 +121,9 @@ Objective: 100 annotated reports in 5 languages
 |-|-|-|
 |Chinese| 100 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
 |French| 90 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️|
-|Greek| 25 |🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
-|Italian| 20 |🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
-|Language 5| |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Italian| 60 |🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️|
+|Greek| 45 |🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️|
+|Dutch | 20 |🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
 <!-- FEW RULES FOR REPORTS -->
 ## Few Rules for Reports
