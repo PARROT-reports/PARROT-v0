@@ -105,25 +105,26 @@ Here is a template if you wish to save the file as a table (recommended).
 
 Actively recieving reports...
 
-## Leaderboard 08/09/2024 update
+## Leaderboard 08/21/2024 update
 
 | Rank | Name          | Country       | Number of Valid Reports |Number of Valid ICD 10 Codes |
 |------|---------------|---------------|-------------------------|-|
 | 1    | Shuhang Zhang | China            | 50                    | 50|
 | 1    | Wang Weilang | China            | 50                    | 50|
-| 3    | Bastien Le Guellec     | France            | 31                      |80|
-| 4    | Michail Klontzas    | Greece        | 25                      |25|
-| 5    | Thibault Agripnidis | France            | 50                    | 0|
+| 1    | Henrik Andersson | Sweden            | 50                    | 50|
+| 1    | Johan Wassélius | Sweden           | 50                    | 50|
+| 5    | Bastien Le Guellec     | France            | 31                      |80|
+
 
 
 Objective: 100 annotated reports in 5 languages
 |Language|Number|Progress|
 |-|-|-|
 |Chinese| 100 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|French| 90 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️|
-|Italian| 60 |🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️|
+|French| 230 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
+|Italian| 160 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
+|Swedish| 100 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
 |Greek| 45 |🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️|
-|Dutch | 20 |🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
 <!-- FEW RULES FOR REPORTS -->
 ## Few Rules for Reports
