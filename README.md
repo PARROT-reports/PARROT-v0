@@ -105,26 +105,39 @@ Here is a template if you wish to save the file as a table (recommended).
 
 Actively recieving reports...
 
-## Leaderboard 08/21/2024 update
+## Leaderboard 09/06/2024 update
 
-| Rank | Name          | Country       | Number of Valid Reports |Number of Valid ICD 10 Codes |
-|------|---------------|---------------|-------------------------|-|
-| 1    | Shuhang Zhang | China            | 50                    | 50|
-| 1    | Wang Weilang | China            | 50                    | 50|
-| 1    | Henrik Andersson | Sweden            | 50                    | 50|
-| 1    | Johan Wassélius | Sweden           | 50                    | 50|
-| 5    | Bastien Le Guellec     | France            | 31                      |80|
+Contributors of 50 reports:
+
+| Name          | Country       |
+|---------------|---------------|
+| S. Zhang | China            |
+| W. Weilang | China            |
+| H. Andersson | Sweden            |
+| J. Wassélius | Sweden           |
+| B. Le Guellec     | France            |
+| T. Agripnidis     | France            |
+| K. Adambounou     | Togo            |
+| B. Nguema     | Gabon            |
+| N. Ait Chalal     | Algeria            |
+| N. Herinirina     | Madagascar            |
 
 
 
-Objective: 100 annotated reports in 5 languages
+
+Objective: 100 annotated reports in 10 languages
 |Language|Number|Progress|
 |-|-|-|
 |Chinese| 100 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|French| 230 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
+|French| 360 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
 |Italian| 160 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
 |Swedish| 100 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|Greek| 45 |🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️|
+|Greek| 117 |🔵🔵🔵🔵🔵🔵🔵🔵|
+|German| 155 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
+|Korean| 43 | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️|
+|Dutch| 26 |🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|Afrikaans| 26 |🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
+|TBD| TBD |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
 <!-- FEW RULES FOR REPORTS -->
 ## Few Rules for Reports
@@ -174,6 +187,6 @@ contributeparrot@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-PARROT is a not-for-profit project imagined by Bastien Le Guellec (Lille, France) and Keno Bressem (Munich, Germany).
+PARROT is a not-for-profit project imagined by Bastien Le Guellec (Lille, France) and Keno Bressem (Munich, Germany), with the support of Grégory Kuchcinki (Lille, France).
 At the moment, it recieves no institutional funding. 
 If your are an institution wishing to contribute to the project, please send an email to contributeparrot@gmail.com
