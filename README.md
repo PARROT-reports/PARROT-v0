@@ -82,6 +82,9 @@ Broadening the scope: multilingual medical databases are rare and radiology repo
 8. 	Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA. . https://huggingface.co/blog/4bit-transformers-bitsandbytes. Accessed May 4, 2024.
 </details>
 
+<!-- Update 9/31/2024: submissions closed for PARROT v1 -->
+If you wish to participate, you can still contact us and we will call you for PARROT v2, coming next year
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -105,7 +108,7 @@ Here is a template if you wish to save the file as a table (recommended).
 
 Actively recieving reports...
 
-## Leaderboard 09/06/2024 update
+## Leaderboard 09/31/2024 update
 
 Contributors of 50 reports:
 
@@ -120,24 +123,37 @@ Contributors of 50 reports:
 | K. Adambounou     | Togo            |
 | B. Nguema     | Gabon            |
 | N. Ait Chalal     | Algeria            |
+| N. Müller      | Germany            |
+| T. Akinci D’Antonoli     | Germany            |
 | N. Herinirina     | Madagascar            |
+| A. Ojeda     | Argentina            |
+| N. Ivanova     | Bulgaria            |
+| G. Iavanak     | Croatia            |
+| N. Gorelik     | Canada            |
+| E. Divjak     | Croatia            |
+| A. Meddeb     | Germany            |
+| M. Fułek     | Poland            |
+| S. Urban     | Poland            |
+| K. Fułek     | Poland            |
+| S. Włodarczak     | Poland            |
+| P. Macek     | Poland            |
+| K. Kraik     | Poland            |
+| B. Dziadkowiec-Macek     | Poland            |
+| A. Włodarczak     | Poland            |
+| A. Kompanowska     | Poland            |
+| M. Gachowska     | Poland            |
+| K. Resler     | Poland            |
+| D. Krupka     | Poland            |
+| J. Rotkegel     | Poland            |
+| A. Wysocki     | Poland            |
+| T. Zatoński     | Poland            |
+| R. Kompanowski     | Poland            |
+| M. Poręba     | Poland            |
+| P. Gać     | Poland            |
+| R. Poręba     | Poland            |
 
 
 
-
-Objective: 100 annotated reports in 10 languages
-|Language|Number|Progress|
-|-|-|-|
-|Chinese| 100 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|French| 360 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|Italian| 160 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|Swedish| 100 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|Greek| 117 |🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|German| 155 | 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵|
-|Korean| 43 | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️|
-|Dutch| 26 |🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
-|Afrikaans| 26 |🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
-|TBD| TBD |⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️|
 
 <!-- FEW RULES FOR REPORTS -->
 ## Few Rules for Reports
